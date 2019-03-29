@@ -1,0 +1,854 @@
+2019-03-27 17:50:41,882 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 迟到的定义 fail: timeout 
+2019-03-27 17:50:51,969 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 迟到的定义 fail: timeout 
+2019-03-27 17:51:01,987 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 迟到是怎么规定的 fail: timeout 
+2019-03-27 17:51:11,997 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 怎么才算迟到 fail: timeout 
+2019-03-27 17:51:22,016 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 迟到的豁免 fail: timeout 
+2019-03-27 17:51:24,397 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 一个月可以迟到几次 success 
+2019-03-27 17:51:24,679 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 迟到几次开始扣钱 success 
+2019-03-27 17:51:25,190 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 迟到了一次，可以考勤扣款豁免吗 success 
+2019-03-27 17:51:25,564 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 迟到可以不扣钱进行豁免吗 success 
+2019-03-27 17:51:26,005 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 只要迟到就会扣钱吗 success 
+2019-03-27 17:51:26,378 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 迟到的经济处罚 success 
+2019-03-27 17:51:26,749 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 迟到会有什么惩罚 success 
+2019-03-27 17:51:27,036 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 迟到扣多少钱 success 
+2019-03-27 17:51:27,544 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 迟到的经济处罚是什么 success 
+2019-03-27 17:51:27,933 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 迟到罚钱的话，会罚多少 success 
+2019-03-27 17:51:28,262 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 迟到在经济上是怎么惩罚的 success 
+2019-03-27 17:51:28,530 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 迟到罚钱吗？ success 
+2019-03-27 17:51:28,949 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 早退的定义 success 
+2019-03-27 17:51:29,331 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 早退的时间规定 success 
+2019-03-27 17:51:29,653 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 什么情况算是早退 success 
+2019-03-27 17:51:30,015 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 提前离开多久算是早退 success 
+2019-03-27 17:51:30,386 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 早退的豁免 success 
+2019-03-27 17:51:30,830 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 一个月可以早退几次 success 
+2019-03-27 17:51:31,171 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 早退几次开始扣钱 success 
+2019-03-27 17:51:31,701 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 早退能豁免吗 success 
+2019-03-27 17:51:32,158 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 只要早退就会扣钱吗 success 
+2019-03-27 17:51:32,601 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 早退的经济处罚 success 
+2019-03-27 17:51:33,023 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 早退会有什么惩罚 success 
+2019-03-27 17:51:33,411 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 早退扣多少钱 success 
+2019-03-27 17:51:33,772 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 早退了怎么罚钱？ success 
+2019-03-27 17:51:34,316 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 早退的经济处罚是怎么规定的 success 
+2019-03-27 17:51:34,994 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 早退的经济处罚是什么 success 
+2019-03-27 17:51:35,256 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 旷工的定义 success 
+2019-03-27 17:51:35,529 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 旷工的行为是什么 success 
+2019-03-27 17:51:35,805 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 旷工是如何规定的 success 
+2019-03-27 17:51:36,160 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 旷工的经济处罚 success 
+2019-03-27 17:51:36,484 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 旷工要扣多少钱 success 
+2019-03-27 17:51:36,746 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 如果旷工还有绩效奖金吗 success 
+2019-03-27 17:51:37,145 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 旷工会影响奖金吗？ success 
+2019-03-27 17:51:37,516 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 旷工的经济处罚是怎么规定的 success 
+2019-03-27 17:51:37,899 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 旷工的行政处罚 success 
+2019-03-27 17:51:38,325 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 如果旷工除了扣工资还有其他处罚吗 success 
+2019-03-27 17:51:38,864 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 旷工会被开除吗 success 
+2019-03-27 17:51:39,224 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 旷工会被开除吗？ success 
+2019-03-27 17:51:39,510 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 旷工处分是什么？ success 
+2019-03-27 17:51:39,948 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 旷工几天会被公司开除？ success 
+2019-03-27 17:51:40,189 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 旷工的后果严重吗 success 
+2019-03-27 17:51:40,596 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 打卡的次数 success 
+2019-03-27 17:51:41,037 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 一周要打卡几天 success 
+2019-03-27 17:51:41,806 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 打卡天数是怎么规定的 success 
+2019-03-27 17:51:42,260 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 打卡的次数有要求吗 success 
+2019-03-27 17:51:42,732 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 每周打卡次数有规定吗？ success 
+2019-03-27 17:51:43,179 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 打卡的次数有要求吗 success 
+2019-03-27 17:51:43,528 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 每天需要打卡几次 success 
+2019-03-27 17:51:43,955 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 打卡次数 success 
+2019-03-27 17:51:44,474 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 打卡是每天上下班各一次吗？ success 
+2019-03-27 17:51:44,806 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 每天需要打几次卡 success 
+2019-03-27 17:51:46,092 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 公出的申请方式 success 
+2019-03-27 17:51:46,480 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 公出申请怎么提交 success 
+2019-03-27 17:51:46,925 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 公出的申请方式是什么 success 
+2019-03-27 17:51:47,310 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 公出通过什么方式申请 success 
+2019-03-27 17:51:47,677 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 公出需要提交申请 success 
+2019-03-27 17:51:48,103 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 工伤的申请时限 success 
+2019-03-27 17:51:48,414 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 什么时间段可以申请工伤 success 
+2019-03-27 17:51:48,731 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 工伤的申请时间有限制吗 success 
+2019-03-27 17:51:49,030 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 在多少天内可以申请工伤 success 
+2019-03-27 17:51:49,603 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 工伤的申请方式 success 
+2019-03-27 17:51:49,859 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 怎么申请工伤 success 
+2019-03-27 17:51:50,299 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 工伤的申请要怎么办理 success 
+2019-03-27 17:51:50,888 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 工伤申请需要什么手续 success 
+2019-03-27 17:51:51,391 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 工伤申请所需资料 success 
+2019-03-27 17:51:51,919 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 申请工伤的资料有哪些 success 
+2019-03-27 17:51:52,227 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 工伤的申请资料有什么 success 
+2019-03-27 17:51:52,728 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 申请工伤需要些什么材料？ success 
+2019-03-27 17:51:53,253 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 申请工伤要准备哪些材料？ success 
+2019-03-27 17:51:53,490 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 工伤要什么证明材料 success 
+2019-03-27 17:51:54,041 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 受工伤需要什么认定材料 success 
+2019-03-27 17:51:54,376 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 事假的定义 success 
+2019-03-27 17:51:54,687 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 事假的定义 success 
+2019-03-27 17:51:55,016 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请事假的情况有什么 success 
+2019-03-27 17:51:55,338 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 事假的审批规则 success 
+2019-03-27 17:51:55,716 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 事假怎么审批 success 
+2019-03-27 17:51:56,072 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请事假找主管审批就可以 success 
+2019-03-27 17:51:56,786 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 事假的审批方式 success 
+2019-03-27 17:51:57,064 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 事假的取消方式 success 
+2019-03-27 17:51:57,272 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 事假怎么取消 success 
+2019-03-27 17:51:57,606 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 今天请的事假没休，怎么取消 success 
+2019-03-27 17:51:58,005 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 未休事假的取消方式 success 
+2019-03-27 17:51:58,285 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 事假的扣款规则 success 
+2019-03-27 17:51:58,615 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请事假还有工资吗 success 
+2019-03-27 17:51:58,926 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请事假扣全部的工资吗 success 
+2019-03-27 17:51:59,275 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 事假要扣多少钱 success 
+2019-03-27 17:51:59,554 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 事假的天数 success 
+2019-03-27 17:51:59,922 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 最多可以请多少天的事假 success 
+2019-03-27 17:52:00,172 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 可以请多少天事假 success 
+2019-03-27 17:52:00,529 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 事假的天数有限制吗 success 
+2019-03-27 17:52:00,866 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 病假的定义 success 
+2019-03-27 17:52:01,148 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 怎么才算病假 success 
+2019-03-27 17:52:01,532 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 病假的休假有什么规定 success 
+2019-03-27 17:52:01,989 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 病假的审批规则 success 
+2019-03-27 17:52:02,301 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 如何审批病假 success 
+2019-03-27 17:52:02,671 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请病假找直属领导审批就可以了吗 success 
+2019-03-27 17:52:03,150 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请病假的审批方式 success 
+2019-03-27 17:52:03,491 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 病假的取消方式 success 
+2019-03-27 17:52:03,753 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 病假怎么取消 success 
+2019-03-27 17:52:04,173 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 未休病假的取消方式 success 
+2019-03-27 17:52:04,454 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 病假的扣款规则 success 
+2019-03-27 17:52:04,793 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请病假是怎么扣款的 success 
+2019-03-27 17:52:05,115 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 病假的扣款规则是怎么样的 success 
+2019-03-27 17:52:05,511 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 病假要扣多少钱 success 
+2019-03-27 17:52:06,323 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 病假申请的所需资料 success 
+2019-03-27 17:52:06,632 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请病假要提交什么资料 success 
+2019-03-27 17:52:06,972 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请病假需要证明吗 success 
+2019-03-27 17:52:07,327 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 什么可以做为请病假的凭证 success 
+2019-03-27 17:52:07,949 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 病假的天数 success 
+2019-03-27 17:52:08,328 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 病假可以请多少天 success 
+2019-03-27 17:52:08,773 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请病假天数有上限吗 success 
+2019-03-27 17:52:09,464 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 可以申请一个月的病假吗 success 
+2019-03-27 17:52:09,987 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 年假的补偿 success 
+2019-03-27 17:52:10,494 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 没休年假会有什么补偿 success 
+2019-03-27 17:52:12,336 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 不休年假会有其他福利吗 success 
+2019-03-27 17:52:12,914 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 年假没有休可以得到什么补偿 success 
+2019-03-27 17:52:13,423 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 年假的有效期 success 
+2019-03-27 17:52:13,708 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 年假有期限吗 success 
+2019-03-27 17:52:14,173 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 年假的休假时间能跨年吗 success 
+2019-03-27 17:52:14,594 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 休年假的日期有规定吗 success 
+2019-03-27 17:52:15,089 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 年假的审批规则 success 
+2019-03-27 17:52:15,510 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 年假怎么审批 success 
+2019-03-27 17:52:15,948 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请年假要找谁审批 success 
+2019-03-27 17:52:16,448 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 年假的审批流程 success 
+2019-03-27 17:52:17,868 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 年假的取消方式 success 
+2019-03-27 17:52:18,777 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 怎么取消已申请的年假 success 
+2019-03-27 17:52:19,697 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 临时有工作，怎么取消已申请的年假 success 
+2019-03-27 17:52:20,568 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 年假的申请如何取消 success 
+2019-03-27 17:52:21,166 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 年假申请的最小单位 success 
+2019-03-27 17:52:21,553 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 最短可以休多长时间的年假 success 
+2019-03-27 17:52:21,796 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 年假可以休半天吗 success 
+2019-03-27 17:52:22,255 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 年假的天数 success 
+2019-03-27 17:52:22,551 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 公司的年假是多少天 success 
+2019-03-27 17:52:22,938 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 公司的员工可以休几天年假 success 
+2019-03-27 17:52:23,413 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 年假有几天 success 
+2019-03-27 17:52:24,041 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 婚假的资格 success 
+2019-03-27 17:52:24,701 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 那些人能享受婚假 success 
+2019-03-27 17:52:24,972 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请婚假有什么要求 success 
+2019-03-27 17:52:25,499 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 复婚还有婚假吗 success 
+2019-03-27 17:52:26,161 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 婚假的有效期 success 
+2019-03-27 17:52:27,121 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 婚假必须结婚后就申请吗 success 
+2019-03-27 17:52:27,954 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 婚假的申请有期限吗 success 
+2019-03-27 17:52:28,374 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 婚假要在什么期间休完 success 
+2019-03-27 17:52:28,932 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 婚假的审批规则 success 
+2019-03-27 17:52:30,566 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 婚假如何审批 success 
+2019-03-27 17:52:31,422 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请婚假需要怎么审批 success 
+2019-03-27 17:52:32,417 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 婚假审批方式 success 
+2019-03-27 17:52:33,006 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 婚假的取消方式 success 
+2019-03-27 17:52:33,406 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 婚假怎么取消 success 
+2019-03-27 17:52:34,726 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 行程有变，怎么取消已申请的婚假 success 
+2019-03-27 17:52:35,848 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 未休婚假的取消方式 success 
+2019-03-27 17:52:37,209 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 婚假申请的所需资料 success 
+2019-03-27 17:52:37,869 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 申请婚假需要什么资料 success 
+2019-03-27 17:52:38,366 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请婚假需要准备什么资料 success 
+2019-03-27 17:52:38,925 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 休婚假要提供哪些证件 success 
+2019-03-27 17:52:39,529 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 丧假的定义 success 
+2019-03-27 17:52:40,988 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 哪些员工可以请丧假 success 
+2019-03-27 17:52:41,599 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 什么人身故才能请丧假 success 
+2019-03-27 17:52:42,057 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 丧假的审批规则 success 
+2019-03-27 17:52:42,388 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 有亲人身故要怎么审批 success 
+2019-03-27 17:52:43,028 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 要请丧假需需要什么审批流程 success 
+2019-03-27 17:52:43,498 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 丧假的审批方式是什么 success 
+2019-03-27 17:52:43,851 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 丧假的取消方式 success 
+2019-03-27 17:52:44,051 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 丧假怎么取消 success 
+2019-03-27 17:52:44,501 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 未休丧假的取消方式 success 
+2019-03-27 17:52:44,783 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 丧假的天数 success 
+2019-03-27 17:52:45,060 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 丧假可以请几天 success 
+2019-03-27 17:52:45,476 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 丧假天数是多少 success 
+2019-03-27 17:52:45,869 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请一周丧假可以吗 success 
+2019-03-27 17:52:46,194 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产假的定义 success 
+2019-03-27 17:52:46,568 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产假的规定是怎样的 success 
+2019-03-27 17:52:46,950 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 可以休产假的规定是什么 success 
+2019-03-27 17:52:47,409 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产假的审批规则 success 
+2019-03-27 17:52:47,872 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 休产假怎么审批 success 
+2019-03-27 17:52:48,335 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产假需要什么审批流程 success 
+2019-03-27 17:52:48,845 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产假的审批流程是什么 success 
+2019-03-27 17:52:49,217 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产假的取消方式 success 
+2019-03-27 17:52:49,514 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产假怎么取消 success 
+2019-03-27 17:52:49,957 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 未休产假的取消方式 success 
+2019-03-27 17:52:50,243 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产假的天数 success 
+2019-03-27 17:52:50,568 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产假可以休几天 success 
+2019-03-27 17:52:51,215 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产假的休假天数是怎么规定的 success 
+2019-03-27 17:52:51,653 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 生孩子可以休多长时间的假 success 
+2019-03-27 17:52:52,156 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产检假的审批规则 success 
+2019-03-27 17:52:52,652 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产检假要怎么审批 success 
+2019-03-27 17:52:53,636 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 申请产检假的审批流程 success 
+2019-03-27 17:52:54,315 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产检假的审批形式 success 
+2019-03-27 17:52:54,756 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产检假的取消方式 success 
+2019-03-27 17:52:55,097 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产检假怎么取消 success 
+2019-03-27 17:52:55,467 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产检日期有变化，怎么取消 success 
+2019-03-27 17:52:56,060 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 未休产检假的取消方式 success 
+2019-03-27 17:52:56,981 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产检假申请的所需资料 success 
+2019-03-27 17:52:57,315 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 休产检假要准备什么资料 success 
+2019-03-27 17:52:57,727 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产检假的休假证明需要什么 success 
+2019-03-27 17:52:58,078 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产检的休假凭证是什么 success 
+2019-03-27 17:52:58,836 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 流产假的审批规则 success 
+2019-03-27 17:52:59,792 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 流产了想休息一下，需要什么审批流程 success 
+2019-03-27 17:53:00,309 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 流产假需要审批吗 success 
+2019-03-27 17:53:00,951 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 流产假的审批方式是什么 success 
+2019-03-27 17:53:01,480 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 流产假的取消方式 success 
+2019-03-27 17:53:02,100 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 流产假怎么取消 success 
+2019-03-27 17:53:02,818 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 申请了流产假不想休了，怎么办 success 
+2019-03-27 17:53:03,396 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 未休流产假的取消方式 success 
+2019-03-27 17:53:03,861 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 流产假的天数 success 
+2019-03-27 17:53:04,154 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 流产能休息几天 success 
+2019-03-27 17:53:04,832 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 流产的休息天数是怎么规定 success 
+2019-03-27 17:53:05,792 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 流产假的申请方式 success 
+2019-03-27 17:53:06,174 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 怎么申请流产假 success 
+2019-03-27 17:53:06,955 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 流产可以申请休假吗 success 
+2019-03-27 17:53:07,905 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 流产假申请的所需资料 success 
+2019-03-27 17:53:08,376 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 流产休假需要什么资料 success 
+2019-03-27 17:53:08,861 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请流产假要什么作为证明 success 
+2019-03-27 17:53:09,291 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 节育假的审批规则 success 
+2019-03-27 17:53:10,050 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 节育假要走什么审批的流程 success 
+2019-03-27 17:53:12,102 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 节育假的审批怎么办理 success 
+2019-03-27 17:53:12,921 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 节育休假的审批 success 
+2019-03-27 17:53:13,417 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 节育假的取消方式 success 
+2019-03-27 17:53:13,704 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 节育假怎么取消 success 
+2019-03-27 17:53:14,072 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 申请了节育的假期，不休了怎么取消 success 
+2019-03-27 17:53:14,553 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 未休节育假的取消方式 success 
+2019-03-27 17:53:15,072 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 节育假的天数 success 
+2019-03-27 17:53:15,485 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 节育能休假吗 success 
+2019-03-27 17:53:15,762 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 做了节育可以休息多长时间 success 
+2019-03-27 17:53:16,021 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 节育有多长时间的假 success 
+2019-03-27 17:53:16,444 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 哺乳假的审批规则 success 
+2019-03-27 17:53:16,821 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 哺乳假怎么审批 success 
+2019-03-27 17:53:17,148 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 哺乳假要审批吗 success 
+2019-03-27 17:53:17,542 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 哺乳期间的休假要怎么审批 success 
+2019-03-27 17:53:17,858 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 哺乳假的取消方式 success 
+2019-03-27 17:53:18,076 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 哺乳假怎么取消 success 
+2019-03-27 17:53:18,462 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 未休哺乳假的取消方式 success 
+2019-03-27 17:53:18,861 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 哺乳假的申请时限 success 
+2019-03-27 17:53:19,158 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 哺乳假每天有多长时间 success 
+2019-03-27 17:53:19,460 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 哺乳假的休息时间是多久 success 
+2019-03-27 17:53:19,777 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 每天有几个小时的哺乳假 success 
+2019-03-27 17:53:20,164 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 陪产假的有效期 success 
+2019-03-27 17:53:20,588 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 陪产假的有效期是多长 success 
+2019-03-27 17:53:21,126 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 在什么期间可以申请陪产假 success 
+2019-03-27 17:53:21,520 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 陪产假的审批规则 success 
+2019-03-27 17:53:22,000 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 休陪产假怎么审批 success 
+2019-03-27 17:53:23,138 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 申请陪产假的审批流程是什么 success 
+2019-03-27 17:53:23,922 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 陪产假要如何审批 success 
+2019-03-27 17:53:24,301 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 陪产假的取消方式 success 
+2019-03-27 17:53:24,593 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 陪产假怎么取消 success 
+2019-03-27 17:53:24,978 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 已申请的陪产假可以取消吗 success 
+2019-03-27 17:53:25,554 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 未休陪产假的取消方式 success 
+2019-03-27 17:53:26,296 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 陪产假申请的所需资料 success 
+2019-03-27 17:53:26,661 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 申请陪产假需要什么资料 success 
+2019-03-27 17:53:27,386 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 要准备什么资料才能申请陪产假 success 
+2019-03-27 17:53:27,761 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 陪产假的天数 success 
+2019-03-27 17:53:28,162 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 可以申请多长时间的陪产假 success 
+2019-03-27 17:53:28,467 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 陪产假有几天 success 
+2019-03-27 17:53:28,990 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 探亲假的审批规则 success 
+2019-03-27 17:53:29,909 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 探亲假的审批方式是啥 success 
+2019-03-27 17:53:30,260 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请探亲假需要怎样审批 success 
+2019-03-27 17:53:30,542 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 探亲假怎么审批 success 
+2019-03-27 17:53:30,818 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 探亲假的取消方式 success 
+2019-03-27 17:53:31,003 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 探亲假怎么取消 success 
+2019-03-27 17:53:31,258 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 已经请的探亲假还未休怎么取消 success 
+2019-03-27 17:53:31,689 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 未休探亲假的取消方式 success 
+2019-03-27 17:53:32,061 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 探亲假的申请条件 success 
+2019-03-27 17:53:32,829 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请探亲假要满足什么条件 success 
+2019-03-27 17:53:33,310 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 探亲假申请条件是什么 success 
+2019-03-27 17:53:33,647 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 探亲假谁都可以申请吗 success 
+2019-03-27 17:53:33,975 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 家长会的审批规则 success 
+2019-03-27 17:53:34,256 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 开家长会请假怎么审批 success 
+2019-03-27 17:53:34,629 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请假开家长会需要怎么审批 success 
+2019-03-27 17:53:35,087 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 开家长会请假的审批流程 success 
+2019-03-27 17:53:35,371 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 家长会的取消方式 success 
+2019-03-27 17:53:35,643 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请了家长会的假怎么取消 success 
+2019-03-27 17:53:35,923 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 家长会该日期了怎么取消休假 success 
+2019-03-27 17:53:36,310 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 未休家长会假的取消方式 success 
+2019-03-27 17:53:36,673 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 家长会的申请条件 success 
+2019-03-27 17:53:37,022 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 开家长会要什么凭证 success 
+2019-03-27 17:53:37,325 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 开家长会有假吗 success 
+2019-03-27 17:53:37,948 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 申请开家长会的假需要什么条件 success 
+2019-03-27 17:53:38,299 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产假怎么请 success 
+2019-03-27 17:53:38,576 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 晋升如何查 success 
+2019-03-27 18:24:23,653 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 迟到的定义 fail: timeout 
+2019-03-27 18:24:23,655 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 迟到的定义 fail: timeout 
+2019-03-27 18:24:23,657 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 迟到是怎么规定的 fail: timeout 
+2019-03-27 18:24:23,659 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 怎么才算迟到 fail: timeout 
+2019-03-27 18:24:23,660 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 迟到的豁免 fail: timeout 
+2019-03-27 18:24:23,661 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 一个月可以迟到几次 fail: timeout 
+2019-03-27 18:24:23,663 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 迟到几次开始扣钱 fail: timeout 
+2019-03-27 18:24:23,664 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 迟到了一次，可以考勤扣款豁免吗 fail: timeout 
+2019-03-27 18:24:23,665 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 迟到可以不扣钱进行豁免吗 fail: timeout 
+2019-03-27 18:24:23,666 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 只要迟到就会扣钱吗 fail: timeout 
+2019-03-27 18:24:23,668 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 迟到的经济处罚 fail: timeout 
+2019-03-27 18:24:23,669 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 迟到会有什么惩罚 fail: timeout 
+2019-03-27 18:24:23,670 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 迟到扣多少钱 fail: timeout 
+2019-03-27 18:24:23,671 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 迟到的经济处罚是什么 fail: timeout 
+2019-03-27 18:24:23,672 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 迟到罚钱的话，会罚多少 fail: timeout 
+2019-03-27 18:24:23,674 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 迟到在经济上是怎么惩罚的 fail: timeout 
+2019-03-27 18:24:23,675 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 迟到罚钱吗？ fail: timeout 
+2019-03-27 18:24:23,676 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 早退的定义 fail: timeout 
+2019-03-27 18:24:23,677 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 早退的时间规定 fail: timeout 
+2019-03-27 18:24:23,679 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 什么情况算是早退 fail: timeout 
+2019-03-27 18:24:23,680 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 提前离开多久算是早退 fail: timeout 
+2019-03-27 18:24:23,681 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 早退的豁免 fail: timeout 
+2019-03-27 18:24:23,682 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 一个月可以早退几次 fail: timeout 
+2019-03-27 18:24:23,684 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 早退几次开始扣钱 fail: timeout 
+2019-03-27 18:24:23,685 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 早退能豁免吗 fail: timeout 
+2019-03-27 18:24:23,686 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 只要早退就会扣钱吗 fail: timeout 
+2019-03-27 18:24:23,687 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 早退的经济处罚 fail: timeout 
+2019-03-27 18:24:23,688 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 早退会有什么惩罚 fail: timeout 
+2019-03-27 18:24:23,690 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 早退扣多少钱 fail: timeout 
+2019-03-27 18:24:23,691 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 早退了怎么罚钱？ fail: timeout 
+2019-03-27 18:24:23,692 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 早退的经济处罚是怎么规定的 fail: timeout 
+2019-03-27 18:24:23,693 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 早退的经济处罚是什么 fail: timeout 
+2019-03-27 18:24:23,695 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 旷工的定义 fail: timeout 
+2019-03-27 18:24:23,696 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 旷工的行为是什么 fail: timeout 
+2019-03-27 18:24:23,697 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 旷工是如何规定的 fail: timeout 
+2019-03-27 18:24:23,698 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 旷工的经济处罚 fail: timeout 
+2019-03-27 18:24:23,700 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 旷工要扣多少钱 fail: timeout 
+2019-03-27 18:24:23,701 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 如果旷工还有绩效奖金吗 fail: timeout 
+2019-03-27 18:24:23,702 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 旷工会影响奖金吗？ fail: timeout 
+2019-03-27 18:24:23,703 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 旷工的经济处罚是怎么规定的 fail: timeout 
+2019-03-27 18:24:23,704 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 旷工的行政处罚 fail: timeout 
+2019-03-27 18:24:23,706 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 如果旷工除了扣工资还有其他处罚吗 fail: timeout 
+2019-03-27 18:24:23,707 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 旷工会被开除吗 fail: timeout 
+2019-03-27 18:24:23,708 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 旷工会被开除吗？ fail: timeout 
+2019-03-27 18:24:23,709 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 旷工处分是什么？ fail: timeout 
+2019-03-27 18:24:23,711 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 旷工几天会被公司开除？ fail: timeout 
+2019-03-27 18:24:23,712 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 旷工的后果严重吗 fail: timeout 
+2019-03-27 18:24:23,713 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 打卡的次数 fail: timeout 
+2019-03-27 18:24:23,714 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 一周要打卡几天 fail: timeout 
+2019-03-27 18:24:23,715 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 打卡天数是怎么规定的 fail: timeout 
+2019-03-27 18:24:23,717 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 打卡的次数有要求吗 fail: timeout 
+2019-03-27 18:24:23,718 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 每周打卡次数有规定吗？ fail: timeout 
+2019-03-27 18:24:23,719 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 打卡的次数有要求吗 fail: timeout 
+2019-03-27 18:24:23,720 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 每天需要打卡几次 fail: timeout 
+2019-03-27 18:24:23,722 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 打卡次数 fail: timeout 
+2019-03-27 18:24:23,723 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 打卡是每天上下班各一次吗？ fail: timeout 
+2019-03-27 18:24:23,724 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 每天需要打几次卡 fail: timeout 
+2019-03-27 18:24:23,725 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 公出的申请方式 fail: timeout 
+2019-03-27 18:24:23,726 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 公出申请怎么提交 fail: timeout 
+2019-03-27 18:24:23,728 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 公出的申请方式是什么 fail: timeout 
+2019-03-27 18:24:23,729 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 公出通过什么方式申请 fail: timeout 
+2019-03-27 18:24:23,730 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 公出需要提交申请 fail: timeout 
+2019-03-27 18:24:23,731 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 工伤的申请时限 fail: timeout 
+2019-03-27 18:24:23,732 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 什么时间段可以申请工伤 fail: timeout 
+2019-03-27 18:24:23,734 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 工伤的申请时间有限制吗 fail: timeout 
+2019-03-27 18:24:23,735 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 在多少天内可以申请工伤 fail: timeout 
+2019-03-27 18:24:23,736 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 工伤的申请方式 fail: timeout 
+2019-03-27 18:24:23,738 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 怎么申请工伤 fail: timeout 
+2019-03-27 18:24:23,739 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 工伤的申请要怎么办理 fail: timeout 
+2019-03-27 18:24:23,740 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 工伤申请需要什么手续 fail: timeout 
+2019-03-27 18:24:23,741 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 工伤申请所需资料 fail: timeout 
+2019-03-27 18:24:23,743 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 申请工伤的资料有哪些 fail: timeout 
+2019-03-27 18:24:23,744 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 工伤的申请资料有什么 fail: timeout 
+2019-03-27 18:24:23,745 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 申请工伤需要些什么材料？ fail: timeout 
+2019-03-27 18:24:23,746 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 申请工伤要准备哪些材料？ fail: timeout 
+2019-03-27 18:24:23,747 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 工伤要什么证明材料 fail: timeout 
+2019-03-27 18:24:23,749 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 受工伤需要什么认定材料 fail: timeout 
+2019-03-27 18:24:23,750 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 事假的定义 fail: timeout 
+2019-03-27 18:24:23,752 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 事假的定义 fail: timeout 
+2019-03-27 18:24:23,753 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请事假的情况有什么 fail: timeout 
+2019-03-27 18:24:23,754 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 事假的审批规则 fail: timeout 
+2019-03-27 18:24:23,756 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 事假怎么审批 fail: timeout 
+2019-03-27 18:24:23,757 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请事假找主管审批就可以 fail: timeout 
+2019-03-27 18:24:23,758 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 事假的审批方式 fail: timeout 
+2019-03-27 18:24:23,760 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 事假的取消方式 fail: timeout 
+2019-03-27 18:24:23,762 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 事假怎么取消 fail: timeout 
+2019-03-27 18:24:23,764 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 今天请的事假没休，怎么取消 fail: timeout 
+2019-03-27 18:24:23,766 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 未休事假的取消方式 fail: timeout 
+2019-03-27 18:24:23,767 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 事假的扣款规则 fail: timeout 
+2019-03-27 18:24:23,768 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请事假还有工资吗 fail: timeout 
+2019-03-27 18:24:23,769 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请事假扣全部的工资吗 fail: timeout 
+2019-03-27 18:24:23,771 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 事假要扣多少钱 fail: timeout 
+2019-03-27 18:24:23,794 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 事假的天数 fail: timeout 
+2019-03-27 18:24:23,795 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 最多可以请多少天的事假 fail: timeout 
+2019-03-27 18:24:23,797 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 可以请多少天事假 fail: timeout 
+2019-03-27 18:24:23,798 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 事假的天数有限制吗 fail: timeout 
+2019-03-27 18:24:23,799 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 病假的定义 fail: timeout 
+2019-03-27 18:24:23,800 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 怎么才算病假 fail: timeout 
+2019-03-27 18:24:23,802 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 病假的休假有什么规定 fail: timeout 
+2019-03-27 18:24:23,803 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 病假的审批规则 fail: timeout 
+2019-03-27 18:24:23,804 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 如何审批病假 fail: timeout 
+2019-03-27 18:24:23,805 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请病假找直属领导审批就可以了吗 fail: timeout 
+2019-03-27 18:24:23,806 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请病假的审批方式 fail: timeout 
+2019-03-27 18:24:23,808 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 病假的取消方式 fail: timeout 
+2019-03-27 18:24:23,809 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 病假怎么取消 fail: timeout 
+2019-03-27 18:24:23,810 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 未休病假的取消方式 fail: timeout 
+2019-03-27 18:24:23,812 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 病假的扣款规则 fail: timeout 
+2019-03-27 18:24:23,813 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请病假是怎么扣款的 fail: timeout 
+2019-03-27 18:24:23,814 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 病假的扣款规则是怎么样的 fail: timeout 
+2019-03-27 18:24:23,815 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 病假要扣多少钱 fail: timeout 
+2019-03-27 18:24:23,817 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 病假申请的所需资料 fail: timeout 
+2019-03-27 18:24:23,818 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请病假要提交什么资料 fail: timeout 
+2019-03-27 18:24:23,819 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请病假需要证明吗 fail: timeout 
+2019-03-27 18:24:23,821 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 什么可以做为请病假的凭证 fail: timeout 
+2019-03-27 18:24:23,822 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 病假的天数 fail: timeout 
+2019-03-27 18:24:23,823 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 病假可以请多少天 fail: timeout 
+2019-03-27 18:24:23,824 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请病假天数有上限吗 fail: timeout 
+2019-03-27 18:24:23,826 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 可以申请一个月的病假吗 fail: timeout 
+2019-03-27 18:24:23,827 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 年假的补偿 fail: timeout 
+2019-03-27 18:24:23,828 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 没休年假会有什么补偿 fail: timeout 
+2019-03-27 18:24:23,829 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 不休年假会有其他福利吗 fail: timeout 
+2019-03-27 18:24:23,831 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 年假没有休可以得到什么补偿 fail: timeout 
+2019-03-27 18:24:23,832 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 年假的有效期 fail: timeout 
+2019-03-27 18:24:23,833 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 年假有期限吗 fail: timeout 
+2019-03-27 18:24:23,834 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 年假的休假时间能跨年吗 fail: timeout 
+2019-03-27 18:24:23,836 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 休年假的日期有规定吗 fail: timeout 
+2019-03-27 18:24:23,837 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 年假的审批规则 fail: timeout 
+2019-03-27 18:24:23,838 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 年假怎么审批 fail: timeout 
+2019-03-27 18:24:23,839 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请年假要找谁审批 fail: timeout 
+2019-03-27 18:24:23,841 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 年假的审批流程 fail: timeout 
+2019-03-27 18:24:23,842 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 年假的取消方式 fail: timeout 
+2019-03-27 18:24:23,843 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 怎么取消已申请的年假 fail: timeout 
+2019-03-27 18:24:23,845 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 临时有工作，怎么取消已申请的年假 fail: timeout 
+2019-03-27 18:24:23,846 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 年假的申请如何取消 fail: timeout 
+2019-03-27 18:24:23,847 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 年假申请的最小单位 fail: timeout 
+2019-03-27 18:24:23,848 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 最短可以休多长时间的年假 fail: timeout 
+2019-03-27 18:24:23,850 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 年假可以休半天吗 fail: timeout 
+2019-03-27 18:24:23,851 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 年假的天数 fail: timeout 
+2019-03-27 18:24:23,852 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 公司的年假是多少天 fail: timeout 
+2019-03-27 18:24:23,854 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 公司的员工可以休几天年假 fail: timeout 
+2019-03-27 18:24:23,855 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 年假有几天 fail: timeout 
+2019-03-27 18:24:23,857 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 婚假的资格 fail: timeout 
+2019-03-27 18:24:23,858 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 那些人能享受婚假 fail: timeout 
+2019-03-27 18:24:23,859 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请婚假有什么要求 fail: timeout 
+2019-03-27 18:24:23,861 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 复婚还有婚假吗 fail: timeout 
+2019-03-27 18:24:23,863 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 婚假的有效期 fail: timeout 
+2019-03-27 18:24:23,865 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 婚假必须结婚后就申请吗 fail: timeout 
+2019-03-27 18:24:23,866 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 婚假的申请有期限吗 fail: timeout 
+2019-03-27 18:24:23,868 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 婚假要在什么期间休完 fail: timeout 
+2019-03-27 18:24:23,869 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 婚假的审批规则 fail: timeout 
+2019-03-27 18:24:23,871 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 婚假如何审批 fail: timeout 
+2019-03-27 18:24:23,873 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请婚假需要怎么审批 fail: timeout 
+2019-03-27 18:24:23,874 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 婚假审批方式 fail: timeout 
+2019-03-27 18:24:23,875 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 婚假的取消方式 fail: timeout 
+2019-03-27 18:24:23,877 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 婚假怎么取消 fail: timeout 
+2019-03-27 18:24:23,878 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 行程有变，怎么取消已申请的婚假 fail: timeout 
+2019-03-27 18:24:23,879 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 未休婚假的取消方式 fail: timeout 
+2019-03-27 18:24:23,880 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 婚假申请的所需资料 fail: timeout 
+2019-03-27 18:24:23,881 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 申请婚假需要什么资料 fail: timeout 
+2019-03-27 18:24:23,883 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请婚假需要准备什么资料 fail: timeout 
+2019-03-27 18:24:23,884 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 休婚假要提供哪些证件 fail: timeout 
+2019-03-27 18:24:23,885 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 丧假的定义 fail: timeout 
+2019-03-27 18:24:23,887 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 哪些员工可以请丧假 fail: timeout 
+2019-03-27 18:24:23,888 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 什么人身故才能请丧假 fail: timeout 
+2019-03-27 18:24:23,889 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 丧假的审批规则 fail: timeout 
+2019-03-27 18:24:23,890 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 有亲人身故要怎么审批 fail: timeout 
+2019-03-27 18:24:23,892 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 要请丧假需需要什么审批流程 fail: timeout 
+2019-03-27 18:24:23,893 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 丧假的审批方式是什么 fail: timeout 
+2019-03-27 18:24:23,894 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 丧假的取消方式 fail: timeout 
+2019-03-27 18:24:23,895 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 丧假怎么取消 fail: timeout 
+2019-03-27 18:24:23,896 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 未休丧假的取消方式 fail: timeout 
+2019-03-27 18:24:23,898 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 丧假的天数 fail: timeout 
+2019-03-27 18:24:23,899 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 丧假可以请几天 fail: timeout 
+2019-03-27 18:24:23,900 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 丧假天数是多少 fail: timeout 
+2019-03-27 18:24:23,902 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请一周丧假可以吗 fail: timeout 
+2019-03-27 18:24:23,903 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产假的定义 fail: timeout 
+2019-03-27 18:24:23,904 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产假的规定是怎样的 fail: timeout 
+2019-03-27 18:24:23,905 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 可以休产假的规定是什么 fail: timeout 
+2019-03-27 18:24:23,906 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产假的审批规则 fail: timeout 
+2019-03-27 18:24:23,908 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 休产假怎么审批 fail: timeout 
+2019-03-27 18:24:23,909 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产假需要什么审批流程 fail: timeout 
+2019-03-27 18:24:23,910 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产假的审批流程是什么 fail: timeout 
+2019-03-27 18:24:23,911 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产假的取消方式 fail: timeout 
+2019-03-27 18:24:23,913 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产假怎么取消 fail: timeout 
+2019-03-27 18:24:23,914 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 未休产假的取消方式 fail: timeout 
+2019-03-27 18:24:23,915 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产假的天数 fail: timeout 
+2019-03-27 18:24:23,916 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产假可以休几天 fail: timeout 
+2019-03-27 18:24:23,918 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产假的休假天数是怎么规定的 fail: timeout 
+2019-03-27 18:24:23,919 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 生孩子可以休多长时间的假 fail: timeout 
+2019-03-27 18:24:23,920 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产检假的审批规则 fail: timeout 
+2019-03-27 18:24:23,922 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产检假要怎么审批 fail: timeout 
+2019-03-27 18:24:23,923 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 申请产检假的审批流程 fail: timeout 
+2019-03-27 18:24:23,924 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产检假的审批形式 fail: timeout 
+2019-03-27 18:24:23,925 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产检假的取消方式 fail: timeout 
+2019-03-27 18:24:23,927 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产检假怎么取消 fail: timeout 
+2019-03-27 18:24:23,928 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产检日期有变化，怎么取消 fail: timeout 
+2019-03-27 18:24:23,929 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 未休产检假的取消方式 fail: timeout 
+2019-03-27 18:24:23,930 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产检假申请的所需资料 fail: timeout 
+2019-03-27 18:24:23,932 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 休产检假要准备什么资料 fail: timeout 
+2019-03-27 18:24:23,933 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产检假的休假证明需要什么 fail: timeout 
+2019-03-27 18:24:23,934 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产检的休假凭证是什么 fail: timeout 
+2019-03-27 18:24:23,936 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 流产假的审批规则 fail: timeout 
+2019-03-27 18:24:23,937 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 流产了想休息一下，需要什么审批流程 fail: timeout 
+2019-03-27 18:24:23,938 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 流产假需要审批吗 fail: timeout 
+2019-03-27 18:24:23,939 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 流产假的审批方式是什么 fail: timeout 
+2019-03-27 18:24:23,941 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 流产假的取消方式 fail: timeout 
+2019-03-27 18:24:23,942 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 流产假怎么取消 fail: timeout 
+2019-03-27 18:24:23,943 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 申请了流产假不想休了，怎么办 fail: timeout 
+2019-03-27 18:24:23,945 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 未休流产假的取消方式 fail: timeout 
+2019-03-27 18:24:23,946 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 流产假的天数 fail: timeout 
+2019-03-27 18:24:23,947 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 流产能休息几天 fail: timeout 
+2019-03-27 18:24:23,948 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 流产的休息天数是怎么规定 fail: timeout 
+2019-03-27 18:24:23,949 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 流产假的申请方式 fail: timeout 
+2019-03-27 18:24:23,951 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 怎么申请流产假 fail: timeout 
+2019-03-27 18:24:23,952 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 流产可以申请休假吗 fail: timeout 
+2019-03-27 18:24:23,953 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 流产假申请的所需资料 fail: timeout 
+2019-03-27 18:24:23,955 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 流产休假需要什么资料 fail: timeout 
+2019-03-27 18:24:23,956 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请流产假要什么作为证明 fail: timeout 
+2019-03-27 18:24:23,957 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 节育假的审批规则 fail: timeout 
+2019-03-27 18:24:23,959 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 节育假要走什么审批的流程 fail: timeout 
+2019-03-27 18:24:23,960 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 节育假的审批怎么办理 fail: timeout 
+2019-03-27 18:24:23,961 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 节育休假的审批 fail: timeout 
+2019-03-27 18:24:23,963 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 节育假的取消方式 fail: timeout 
+2019-03-27 18:24:23,964 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 节育假怎么取消 fail: timeout 
+2019-03-27 18:24:23,965 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 申请了节育的假期，不休了怎么取消 fail: timeout 
+2019-03-27 18:24:23,966 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 未休节育假的取消方式 fail: timeout 
+2019-03-27 18:24:23,968 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 节育假的天数 fail: timeout 
+2019-03-27 18:24:23,969 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 节育能休假吗 fail: timeout 
+2019-03-27 18:24:23,970 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 做了节育可以休息多长时间 fail: timeout 
+2019-03-27 18:24:23,972 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 节育有多长时间的假 fail: timeout 
+2019-03-27 18:24:23,973 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 哺乳假的审批规则 fail: timeout 
+2019-03-27 18:24:23,974 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 哺乳假怎么审批 fail: timeout 
+2019-03-27 18:24:23,975 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 哺乳假要审批吗 fail: timeout 
+2019-03-27 18:24:23,977 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 哺乳期间的休假要怎么审批 fail: timeout 
+2019-03-27 18:24:23,978 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 哺乳假的取消方式 fail: timeout 
+2019-03-27 18:24:23,979 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 哺乳假怎么取消 fail: timeout 
+2019-03-27 18:24:23,980 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 未休哺乳假的取消方式 fail: timeout 
+2019-03-27 18:24:23,982 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 哺乳假的申请时限 fail: timeout 
+2019-03-27 18:24:23,983 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 哺乳假每天有多长时间 fail: timeout 
+2019-03-27 18:24:23,984 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 哺乳假的休息时间是多久 fail: timeout 
+2019-03-27 18:24:23,985 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 每天有几个小时的哺乳假 fail: timeout 
+2019-03-27 18:24:23,987 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 陪产假的有效期 fail: timeout 
+2019-03-27 18:24:23,988 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 陪产假的有效期是多长 fail: timeout 
+2019-03-27 18:24:23,989 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 在什么期间可以申请陪产假 fail: timeout 
+2019-03-27 18:24:23,990 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 陪产假的审批规则 fail: timeout 
+2019-03-27 18:24:23,992 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 休陪产假怎么审批 fail: timeout 
+2019-03-27 18:24:23,993 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 申请陪产假的审批流程是什么 fail: timeout 
+2019-03-27 18:24:23,994 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 陪产假要如何审批 fail: timeout 
+2019-03-27 18:24:23,995 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 陪产假的取消方式 fail: timeout 
+2019-03-27 18:24:23,997 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 陪产假怎么取消 fail: timeout 
+2019-03-27 18:24:23,998 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 已申请的陪产假可以取消吗 fail: timeout 
+2019-03-27 18:24:23,999 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 未休陪产假的取消方式 fail: timeout 
+2019-03-27 18:24:24,001 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 陪产假申请的所需资料 fail: timeout 
+2019-03-27 18:24:24,002 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 申请陪产假需要什么资料 fail: timeout 
+2019-03-27 18:24:24,003 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 要准备什么资料才能申请陪产假 fail: timeout 
+2019-03-27 18:24:24,004 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 陪产假的天数 fail: timeout 
+2019-03-27 18:24:24,005 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 可以申请多长时间的陪产假 fail: timeout 
+2019-03-27 18:24:24,007 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 陪产假有几天 fail: timeout 
+2019-03-27 18:24:24,008 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 探亲假的审批规则 fail: timeout 
+2019-03-27 18:24:24,010 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 探亲假的审批方式是啥 fail: timeout 
+2019-03-27 18:24:24,011 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请探亲假需要怎样审批 fail: timeout 
+2019-03-27 18:24:24,012 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 探亲假怎么审批 fail: timeout 
+2019-03-27 18:24:24,013 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 探亲假的取消方式 fail: timeout 
+2019-03-27 18:24:24,014 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 探亲假怎么取消 fail: timeout 
+2019-03-27 18:24:24,016 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 已经请的探亲假还未休怎么取消 fail: timeout 
+2019-03-27 18:24:24,017 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 未休探亲假的取消方式 fail: timeout 
+2019-03-27 18:24:24,018 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 探亲假的申请条件 fail: timeout 
+2019-03-27 18:24:24,020 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请探亲假要满足什么条件 fail: timeout 
+2019-03-27 18:24:24,021 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 探亲假申请条件是什么 fail: timeout 
+2019-03-27 18:24:24,022 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 探亲假谁都可以申请吗 fail: timeout 
+2019-03-27 18:24:24,023 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 家长会的审批规则 fail: timeout 
+2019-03-27 18:24:24,025 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 开家长会请假怎么审批 fail: timeout 
+2019-03-27 18:24:24,026 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请假开家长会需要怎么审批 fail: timeout 
+2019-03-27 18:24:24,027 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 开家长会请假的审批流程 fail: timeout 
+2019-03-27 18:24:24,028 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 家长会的取消方式 fail: timeout 
+2019-03-27 18:24:24,030 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请了家长会的假怎么取消 fail: timeout 
+2019-03-27 18:24:24,031 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 家长会该日期了怎么取消休假 fail: timeout 
+2019-03-27 18:24:24,032 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 未休家长会假的取消方式 fail: timeout 
+2019-03-27 18:24:24,033 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 家长会的申请条件 fail: timeout 
+2019-03-27 18:24:24,035 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 开家长会要什么凭证 fail: timeout 
+2019-03-27 18:24:24,036 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 开家长会有假吗 fail: timeout 
+2019-03-27 18:24:24,037 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 申请开家长会的假需要什么条件 fail: timeout 
+2019-03-27 18:24:24,038 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产假怎么请 fail: timeout 
+2019-03-27 18:24:24,040 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 晋升如何查 fail: timeout 
+2019-03-27 18:24:24,041 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 加班补助 fail: timeout 
+2019-03-27 18:34:00,063 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 迟到的定义 success 
+2019-03-27 18:34:00,343 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 迟到的定义 success 
+2019-03-27 18:34:00,618 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 迟到是怎么规定的 success 
+2019-03-27 18:34:00,930 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 怎么才算迟到 success 
+2019-03-27 18:34:01,245 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 迟到的豁免 success 
+2019-03-27 18:34:01,573 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 一个月可以迟到几次 success 
+2019-03-27 18:34:01,874 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 迟到几次开始扣钱 success 
+2019-03-27 18:34:02,421 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 迟到了一次，可以考勤扣款豁免吗 success 
+2019-03-27 18:34:02,826 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 迟到可以不扣钱进行豁免吗 success 
+2019-03-27 18:34:03,206 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 只要迟到就会扣钱吗 success 
+2019-03-27 18:34:04,523 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 迟到的经济处罚 success 
+2019-03-27 18:34:04,834 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 迟到会有什么惩罚 success 
+2019-03-27 18:34:05,149 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 迟到扣多少钱 success 
+2019-03-27 18:34:05,576 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 迟到的经济处罚是什么 success 
+2019-03-27 18:34:05,946 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 迟到罚钱的话，会罚多少 success 
+2019-03-27 18:34:06,278 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 迟到在经济上是怎么惩罚的 success 
+2019-03-27 18:34:06,525 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 迟到罚钱吗？ success 
+2019-03-27 18:34:06,907 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 早退的定义 success 
+2019-03-27 18:34:07,229 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 早退的时间规定 success 
+2019-03-27 18:34:10,600 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 什么情况算是早退 success 
+2019-03-27 18:34:10,931 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 提前离开多久算是早退 success 
+2019-03-27 18:34:11,814 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 早退的豁免 success 
+2019-03-27 18:34:12,236 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 一个月可以早退几次 success 
+2019-03-27 18:34:12,795 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 早退几次开始扣钱 success 
+2019-03-27 18:34:13,271 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 早退能豁免吗 success 
+2019-03-27 18:34:13,716 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 只要早退就会扣钱吗 success 
+2019-03-27 18:34:14,164 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 早退的经济处罚 success 
+2019-03-27 18:34:14,630 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 早退会有什么惩罚 success 
+2019-03-27 18:34:14,990 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 早退扣多少钱 success 
+2019-03-27 18:34:15,446 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 早退了怎么罚钱？ success 
+2019-03-27 18:34:16,164 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 早退的经济处罚是怎么规定的 success 
+2019-03-27 18:34:18,108 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 早退的经济处罚是什么 success 
+2019-03-27 18:34:18,406 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 旷工的定义 success 
+2019-03-27 18:34:18,707 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 旷工的行为是什么 success 
+2019-03-27 18:34:18,962 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 旷工是如何规定的 success 
+2019-03-27 18:34:19,486 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 旷工的经济处罚 success 
+2019-03-27 18:34:19,797 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 旷工要扣多少钱 success 
+2019-03-27 18:34:20,060 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 如果旷工还有绩效奖金吗 success 
+2019-03-27 18:34:20,484 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 旷工会影响奖金吗？ success 
+2019-03-27 18:34:20,948 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 旷工的经济处罚是怎么规定的 success 
+2019-03-27 18:34:21,320 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 旷工的行政处罚 success 
+2019-03-27 18:34:21,743 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 如果旷工除了扣工资还有其他处罚吗 success 
+2019-03-27 18:34:22,218 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 旷工会被开除吗 success 
+2019-03-27 18:34:22,556 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 旷工会被开除吗？ success 
+2019-03-27 18:34:22,861 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 旷工处分是什么？ success 
+2019-03-27 18:34:23,206 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 旷工几天会被公司开除？ success 
+2019-03-27 18:34:23,436 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 旷工的后果严重吗 success 
+2019-03-27 18:34:23,839 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 打卡的次数 success 
+2019-03-27 18:34:24,296 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 一周要打卡几天 success 
+2019-03-27 18:34:24,702 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 打卡天数是怎么规定的 success 
+2019-03-27 18:34:25,152 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 打卡的次数有要求吗 success 
+2019-03-27 18:34:25,653 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 每周打卡次数有规定吗？ success 
+2019-03-27 18:34:26,105 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 打卡的次数有要求吗 success 
+2019-03-27 18:34:26,443 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 每天需要打卡几次 success 
+2019-03-27 18:34:26,918 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 打卡次数 success 
+2019-03-27 18:34:27,461 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 打卡是每天上下班各一次吗？ success 
+2019-03-27 18:34:27,795 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 每天需要打几次卡 success 
+2019-03-27 18:34:28,722 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 公出的申请方式 success 
+2019-03-27 18:34:29,384 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 公出申请怎么提交 success 
+2019-03-27 18:34:29,892 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 公出的申请方式是什么 success 
+2019-03-27 18:34:30,303 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 公出通过什么方式申请 success 
+2019-03-27 18:34:30,699 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 公出需要提交申请 success 
+2019-03-27 18:34:31,406 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 工伤的申请时限 success 
+2019-03-27 18:34:31,731 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 什么时间段可以申请工伤 success 
+2019-03-27 18:34:32,107 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 工伤的申请时间有限制吗 success 
+2019-03-27 18:34:32,451 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 在多少天内可以申请工伤 success 
+2019-03-27 18:34:33,045 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 工伤的申请方式 success 
+2019-03-27 18:34:33,340 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 怎么申请工伤 success 
+2019-03-27 18:34:34,075 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 工伤的申请要怎么办理 success 
+2019-03-27 18:34:34,644 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 工伤申请需要什么手续 success 
+2019-03-27 18:34:35,211 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 工伤申请所需资料 success 
+2019-03-27 18:34:35,752 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 申请工伤的资料有哪些 success 
+2019-03-27 18:34:36,079 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 工伤的申请资料有什么 success 
+2019-03-27 18:34:36,581 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 申请工伤需要些什么材料？ success 
+2019-03-27 18:34:37,131 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 申请工伤要准备哪些材料？ success 
+2019-03-27 18:34:37,386 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 工伤要什么证明材料 success 
+2019-03-27 18:34:37,684 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 受工伤需要什么认定材料 success 
+2019-03-27 18:34:38,009 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 事假的定义 success 
+2019-03-27 18:34:38,281 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 事假的定义 success 
+2019-03-27 18:34:38,818 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请事假的情况有什么 success 
+2019-03-27 18:34:39,157 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 事假的审批规则 success 
+2019-03-27 18:34:39,537 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 事假怎么审批 success 
+2019-03-27 18:34:39,935 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请事假找主管审批就可以 success 
+2019-03-27 18:34:40,526 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 事假的审批方式 success 
+2019-03-27 18:34:40,835 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 事假的取消方式 success 
+2019-03-27 18:34:41,037 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 事假怎么取消 success 
+2019-03-27 18:34:41,357 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 今天请的事假没休，怎么取消 success 
+2019-03-27 18:34:42,123 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 未休事假的取消方式 success 
+2019-03-27 18:34:42,385 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 事假的扣款规则 success 
+2019-03-27 18:34:43,208 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请事假还有工资吗 success 
+2019-03-27 18:34:44,506 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请事假扣全部的工资吗 success 
+2019-03-27 18:34:45,869 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 事假要扣多少钱 success 
+2019-03-27 18:34:47,191 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 事假的天数 success 
+2019-03-27 18:34:48,596 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 最多可以请多少天的事假 success 
+2019-03-27 18:34:49,966 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 可以请多少天事假 success 
+2019-03-27 18:34:51,986 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 事假的天数有限制吗 success 
+2019-03-27 18:34:53,342 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 病假的定义 success 
+2019-03-27 18:34:54,749 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 怎么才算病假 success 
+2019-03-27 18:34:56,647 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 病假的休假有什么规定 success 
+2019-03-27 18:34:58,005 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 病假的审批规则 success 
+2019-03-27 18:35:00,033 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 如何审批病假 success 
+2019-03-27 18:35:01,626 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请病假找直属领导审批就可以了吗 success 
+2019-03-27 18:35:04,232 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请病假的审批方式 success 
+2019-03-27 18:35:05,689 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 病假的取消方式 success 
+2019-03-27 18:35:05,912 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 病假怎么取消 success 
+2019-03-27 18:35:06,389 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 未休病假的取消方式 success 
+2019-03-27 18:35:06,674 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 病假的扣款规则 success 
+2019-03-27 18:35:06,990 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请病假是怎么扣款的 success 
+2019-03-27 18:35:07,317 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 病假的扣款规则是怎么样的 success 
+2019-03-27 18:35:07,731 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 病假要扣多少钱 success 
+2019-03-27 18:35:08,259 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 病假申请的所需资料 success 
+2019-03-27 18:35:08,529 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请病假要提交什么资料 success 
+2019-03-27 18:35:08,785 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请病假需要证明吗 success 
+2019-03-27 18:35:09,071 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 什么可以做为请病假的凭证 success 
+2019-03-27 18:35:09,343 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 病假的天数 success 
+2019-03-27 18:35:09,614 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 病假可以请多少天 success 
+2019-03-27 18:35:09,953 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请病假天数有上限吗 success 
+2019-03-27 18:35:10,355 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 可以申请一个月的病假吗 success 
+2019-03-27 18:35:10,694 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 年假的补偿 success 
+2019-03-27 18:35:11,102 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 没休年假会有什么补偿 success 
+2019-03-27 18:35:11,811 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 不休年假会有其他福利吗 success 
+2019-03-27 18:35:12,203 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 年假没有休可以得到什么补偿 success 
+2019-03-27 18:35:12,569 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 年假的有效期 success 
+2019-03-27 18:35:12,882 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 年假有期限吗 success 
+2019-03-27 18:35:13,336 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 年假的休假时间能跨年吗 success 
+2019-03-27 18:35:13,679 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 休年假的日期有规定吗 success 
+2019-03-27 18:35:14,076 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 年假的审批规则 success 
+2019-03-27 18:35:14,406 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 年假怎么审批 success 
+2019-03-27 18:35:14,782 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请年假要找谁审批 success 
+2019-03-27 18:35:15,185 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 年假的审批流程 success 
+2019-03-27 18:35:15,577 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 年假的取消方式 success 
+2019-03-27 18:35:16,430 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 怎么取消已申请的年假 success 
+2019-03-27 18:35:17,310 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 临时有工作，怎么取消已申请的年假 success 
+2019-03-27 18:35:18,107 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 年假的申请如何取消 success 
+2019-03-27 18:35:18,727 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 年假申请的最小单位 success 
+2019-03-27 18:35:19,103 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 最短可以休多长时间的年假 success 
+2019-03-27 18:35:19,345 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 年假可以休半天吗 success 
+2019-03-27 18:35:19,718 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 年假的天数 success 
+2019-03-27 18:35:19,996 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 公司的年假是多少天 success 
+2019-03-27 18:35:20,372 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 公司的员工可以休几天年假 success 
+2019-03-27 18:35:20,859 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 年假有几天 success 
+2019-03-27 18:35:21,204 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 婚假的资格 success 
+2019-03-27 18:35:21,479 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 那些人能享受婚假 success 
+2019-03-27 18:35:21,996 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请婚假有什么要求 success 
+2019-03-27 18:35:22,256 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 复婚还有婚假吗 success 
+2019-03-27 18:35:22,543 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 婚假的有效期 success 
+2019-03-27 18:35:23,074 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 婚假必须结婚后就申请吗 success 
+2019-03-27 18:35:23,451 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 婚假的申请有期限吗 success 
+2019-03-27 18:35:23,797 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 婚假要在什么期间休完 success 
+2019-03-27 18:35:24,177 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 婚假的审批规则 success 
+2019-03-27 18:35:24,461 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 婚假如何审批 success 
+2019-03-27 18:35:24,904 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请婚假需要怎么审批 success 
+2019-03-27 18:35:25,466 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 婚假审批方式 success 
+2019-03-27 18:35:25,803 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 婚假的取消方式 success 
+2019-03-27 18:35:26,011 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 婚假怎么取消 success 
+2019-03-27 18:35:27,212 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 行程有变，怎么取消已申请的婚假 success 
+2019-03-27 18:35:27,640 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 未休婚假的取消方式 success 
+2019-03-27 18:35:28,169 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 婚假申请的所需资料 success 
+2019-03-27 18:35:28,461 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 申请婚假需要什么资料 success 
+2019-03-27 18:35:28,764 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请婚假需要准备什么资料 success 
+2019-03-27 18:35:29,039 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 休婚假要提供哪些证件 success 
+2019-03-27 18:35:29,371 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 丧假的定义 success 
+2019-03-27 18:35:30,125 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 哪些员工可以请丧假 success 
+2019-03-27 18:35:30,514 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 什么人身故才能请丧假 success 
+2019-03-27 18:35:30,916 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 丧假的审批规则 success 
+2019-03-27 18:35:32,352 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 有亲人身故要怎么审批 success 
+2019-03-27 18:35:32,939 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 要请丧假需需要什么审批流程 success 
+2019-03-27 18:35:33,370 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 丧假的审批方式是什么 success 
+2019-03-27 18:35:33,665 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 丧假的取消方式 success 
+2019-03-27 18:35:33,881 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 丧假怎么取消 success 
+2019-03-27 18:35:34,274 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 未休丧假的取消方式 success 
+2019-03-27 18:35:34,589 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 丧假的天数 success 
+2019-03-27 18:35:34,894 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 丧假可以请几天 success 
+2019-03-27 18:35:35,230 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 丧假天数是多少 success 
+2019-03-27 18:35:35,583 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请一周丧假可以吗 success 
+2019-03-27 18:35:35,878 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产假的定义 success 
+2019-03-27 18:35:36,205 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产假的规定是怎样的 success 
+2019-03-27 18:35:36,496 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 可以休产假的规定是什么 success 
+2019-03-27 18:35:36,940 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产假的审批规则 success 
+2019-03-27 18:35:37,366 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 休产假怎么审批 success 
+2019-03-27 18:35:38,068 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产假需要什么审批流程 success 
+2019-03-27 18:35:38,562 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产假的审批流程是什么 success 
+2019-03-27 18:35:38,886 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产假的取消方式 success 
+2019-03-27 18:35:39,098 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产假怎么取消 success 
+2019-03-27 18:35:39,516 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 未休产假的取消方式 success 
+2019-03-27 18:35:39,805 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产假的天数 success 
+2019-03-27 18:35:40,121 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产假可以休几天 success 
+2019-03-27 18:35:40,592 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产假的休假天数是怎么规定的 success 
+2019-03-27 18:35:41,057 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 生孩子可以休多长时间的假 success 
+2019-03-27 18:35:42,270 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产检假的审批规则 success 
+2019-03-27 18:35:42,781 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产检假要怎么审批 success 
+2019-03-27 18:35:43,768 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 申请产检假的审批流程 success 
+2019-03-27 18:35:44,435 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产检假的审批形式 success 
+2019-03-27 18:35:44,893 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产检假的取消方式 success 
+2019-03-27 18:35:45,250 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产检假怎么取消 success 
+2019-03-27 18:35:45,598 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产检日期有变化，怎么取消 success 
+2019-03-27 18:35:46,125 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 未休产检假的取消方式 success 
+2019-03-27 18:35:46,931 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产检假申请的所需资料 success 
+2019-03-27 18:35:47,294 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 休产检假要准备什么资料 success 
+2019-03-27 18:35:47,680 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产检假的休假证明需要什么 success 
+2019-03-27 18:35:48,037 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产检的休假凭证是什么 success 
+2019-03-27 18:35:48,564 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 流产假的审批规则 success 
+2019-03-27 18:35:49,339 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 流产了想休息一下，需要什么审批流程 success 
+2019-03-27 18:35:49,797 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 流产假需要审批吗 success 
+2019-03-27 18:35:50,503 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 流产假的审批方式是什么 success 
+2019-03-27 18:35:52,031 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 流产假的取消方式 success 
+2019-03-27 18:35:52,385 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 流产假怎么取消 success 
+2019-03-27 18:35:52,921 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 申请了流产假不想休了，怎么办 success 
+2019-03-27 18:35:53,493 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 未休流产假的取消方式 success 
+2019-03-27 18:35:53,971 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 流产假的天数 success 
+2019-03-27 18:35:54,249 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 流产能休息几天 success 
+2019-03-27 18:35:54,659 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 流产的休息天数是怎么规定 success 
+2019-03-27 18:35:55,658 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 流产假的申请方式 success 
+2019-03-27 18:35:57,067 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 怎么申请流产假 success 
+2019-03-27 18:35:57,885 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 流产可以申请休假吗 success 
+2019-03-27 18:35:58,754 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 流产假申请的所需资料 success 
+2019-03-27 18:35:59,121 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 流产休假需要什么资料 success 
+2019-03-27 18:35:59,590 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请流产假要什么作为证明 success 
+2019-03-27 18:35:59,993 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 节育假的审批规则 success 
+2019-03-27 18:36:00,822 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 节育假要走什么审批的流程 success 
+2019-03-27 18:36:01,736 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 节育假的审批怎么办理 success 
+2019-03-27 18:36:02,336 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 节育休假的审批 success 
+2019-03-27 18:36:02,728 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 节育假的取消方式 success 
+2019-03-27 18:36:03,002 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 节育假怎么取消 success 
+2019-03-27 18:36:03,366 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 申请了节育的假期，不休了怎么取消 success 
+2019-03-27 18:36:03,792 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 未休节育假的取消方式 success 
+2019-03-27 18:36:04,151 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 节育假的天数 success 
+2019-03-27 18:36:04,503 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 节育能休假吗 success 
+2019-03-27 18:36:04,747 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 做了节育可以休息多长时间 success 
+2019-03-27 18:36:05,011 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 节育有多长时间的假 success 
+2019-03-27 18:36:05,360 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 哺乳假的审批规则 success 
+2019-03-27 18:36:05,711 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 哺乳假怎么审批 success 
+2019-03-27 18:36:06,003 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 哺乳假要审批吗 success 
+2019-03-27 18:36:06,347 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 哺乳期间的休假要怎么审批 success 
+2019-03-27 18:36:06,644 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 哺乳假的取消方式 success 
+2019-03-27 18:36:06,884 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 哺乳假怎么取消 success 
+2019-03-27 18:36:07,279 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 未休哺乳假的取消方式 success 
+2019-03-27 18:36:08,678 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 哺乳假的申请时限 success 
+2019-03-27 18:36:08,994 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 哺乳假每天有多长时间 success 
+2019-03-27 18:36:09,311 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 哺乳假的休息时间是多久 success 
+2019-03-27 18:36:09,648 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 每天有几个小时的哺乳假 success 
+2019-03-27 18:36:10,015 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 陪产假的有效期 success 
+2019-03-27 18:36:10,514 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 陪产假的有效期是多长 success 
+2019-03-27 18:36:10,946 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 在什么期间可以申请陪产假 success 
+2019-03-27 18:36:11,828 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 陪产假的审批规则 success 
+2019-03-27 18:36:12,338 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 休陪产假怎么审批 success 
+2019-03-27 18:36:14,503 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 申请陪产假的审批流程是什么 success 
+2019-03-27 18:36:15,284 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 陪产假要如何审批 success 
+2019-03-27 18:36:15,916 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 陪产假的取消方式 success 
+2019-03-27 18:36:16,215 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 陪产假怎么取消 success 
+2019-03-27 18:36:16,624 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 已申请的陪产假可以取消吗 success 
+2019-03-27 18:36:17,137 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 未休陪产假的取消方式 success 
+2019-03-27 18:36:18,071 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 陪产假申请的所需资料 success 
+2019-03-27 18:36:18,430 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 申请陪产假需要什么资料 success 
+2019-03-27 18:36:18,934 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 要准备什么资料才能申请陪产假 success 
+2019-03-27 18:36:19,302 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 陪产假的天数 success 
+2019-03-27 18:36:20,726 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 可以申请多长时间的陪产假 success 
+2019-03-27 18:36:21,039 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 陪产假有几天 success 
+2019-03-27 18:36:21,399 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 探亲假的审批规则 success 
+2019-03-27 18:36:21,826 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 探亲假的审批方式是啥 success 
+2019-03-27 18:36:22,217 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请探亲假需要怎样审批 success 
+2019-03-27 18:36:22,538 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 探亲假怎么审批 success 
+2019-03-27 18:36:22,858 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 探亲假的取消方式 success 
+2019-03-27 18:36:24,065 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 探亲假怎么取消 success 
+2019-03-27 18:36:24,346 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 已经请的探亲假还未休怎么取消 success 
+2019-03-27 18:36:24,764 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 未休探亲假的取消方式 success 
+2019-03-27 18:36:25,119 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 探亲假的申请条件 success 
+2019-03-27 18:36:25,883 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请探亲假要满足什么条件 success 
+2019-03-27 18:36:26,416 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 探亲假申请条件是什么 success 
+2019-03-27 18:36:26,763 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 探亲假谁都可以申请吗 success 
+2019-03-27 18:36:27,131 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 家长会的审批规则 success 
+2019-03-27 18:36:28,494 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 开家长会请假怎么审批 success 
+2019-03-27 18:36:28,878 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请假开家长会需要怎么审批 success 
+2019-03-27 18:36:29,293 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 开家长会请假的审批流程 success 
+2019-03-27 18:36:29,579 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 家长会的取消方式 success 
+2019-03-27 18:36:29,871 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 请了家长会的假怎么取消 success 
+2019-03-27 18:36:30,211 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 家长会该日期了怎么取消休假 success 
+2019-03-27 18:36:30,636 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 未休家长会假的取消方式 success 
+2019-03-27 18:36:31,026 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 家长会的申请条件 success 
+2019-03-27 18:36:31,324 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 开家长会要什么凭证 success 
+2019-03-27 18:36:31,641 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 开家长会有假吗 success 
+2019-03-27 18:36:32,492 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 申请开家长会的假需要什么条件 success 
+2019-03-27 18:36:32,793 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 产假怎么请 success 
+2019-03-27 18:36:33,117 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 晋升如何查 success 
+2019-03-27 18:36:33,345 - /home/baobao/Pycharm/hual/data_management/log_module/log.py - INFO - 加班补助 success 

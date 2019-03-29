@@ -9,13 +9,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/rule_based.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -24,18 +18,87 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>流程</find>
+      <find>步骤</find>
+      <find>什么</find>
+      <find>方式</find>
+      <find>adj</find>
+      <find>区别</find>
+      <find>是什么</find>
+      <find>什么叫</find>
+      <find>[哪里][v][n]{{entity}}</find>
+      <find>[哪里][v]</find>
+      <find>[哪里]</find>
+      <find>\t</find>
+      <find>[是][什么]</find>
+      <find>定义</find>
+      <find>吗</find>
+    </findStrings>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/rule_based.py" />
+        <option value="$PROJECT_DIR$/test.sh" />
+        <option value="$PROJECT_DIR$/origin_data/1.txt" />
+        <option value="$PROJECT_DIR$/utlis/sort_out.py" />
+        <option value="$PROJECT_DIR$/utlis/load_file.py" />
+        <option value="$PROJECT_DIR$/no_tag_data" />
+        <option value="$PROJECT_DIR$/origin_data/1.py" />
+        <option value="$PROJECT_DIR$/result_data/数量" />
+        <option value="$PROJECT_DIR$/result_data/条件" />
+        <option value="$PROJECT_DIR$/result_data/确认" />
+        <option value="$PROJECT_DIR$/result_data/地点" />
+        <option value="$PROJECT_DIR$/result_data/定义" />
+        <option value="$PROJECT_DIR$/1.py" />
+        <option value="$PROJECT_DIR$/result_data/评价" />
+        <option value="$PROJECT_DIR$/result_data/方式" />
+        <option value="$PROJECT_DIR$/origin_data/1" />
+        <option value="$PROJECT_DIR$/origin_data/amount" />
+        <option value="$PROJECT_DIR$/origin_data/dictionary/character" />
+        <option value="$PROJECT_DIR$/classifier/rule_based_character.py" />
+        <option value="$PROJECT_DIR$/origin_data/dictionary/confirm" />
+        <option value="$PROJECT_DIR$/classifier/rule_based_definition.py" />
+        <option value="$PROJECT_DIR$/origin_data/dictionary/definition" />
+        <option value="$PROJECT_DIR$/origin_data/dictionary/content" />
+        <option value="$PROJECT_DIR$/origin_data/dictionary/condition" />
+        <option value="$PROJECT_DIR$/origin_data/dictionary/degree" />
+        <option value="$PROJECT_DIR$/classifier/rule_based_greeting.py" />
+        <option value="$PROJECT_DIR$/origin_data/dictionary/location" />
+        <option value="$PROJECT_DIR$/classifier/rule_based_location.py" />
+        <option value="$PROJECT_DIR$/classifier/rule_based_method.py" />
+        <option value="$PROJECT_DIR$/origin_data/dictionary/method" />
+        <option value="$PROJECT_DIR$/origin_data/dictionary/evalution" />
+        <option value="$PROJECT_DIR$/classifier/rule_based_evalution.py" />
+        <option value="$PROJECT_DIR$/origin_data/dictionary/process" />
+        <option value="$PROJECT_DIR$/classifier/rule_based_process.py" />
+        <option value="$PROJECT_DIR$/origin_data/dictionary/reason" />
+        <option value="$PROJECT_DIR$/origin_data/dictionary/recommend" />
+        <option value="$PROJECT_DIR$/origin_data/dictionary/relation" />
+        <option value="$PROJECT_DIR$/classifier/rule_based_recommend.py" />
+        <option value="$PROJECT_DIR$/origin_data/dictionary/time" />
+        <option value="$PROJECT_DIR$/classifier/rule_based_time.py" />
+        <option value="$PROJECT_DIR$/origin_data/dictionary/amount" />
+        <option value="$PROJECT_DIR$/classifier/rule_based_amount.py" />
+        <option value="$PROJECT_DIR$/classifier/rule_based_condition.py" />
+        <option value="$PROJECT_DIR$/classifier/rule_based_relation.py" />
+        <option value="$PROJECT_DIR$/classifier/rule_based_content.py" />
+        <option value="$PROJECT_DIR$/classifier/rule_based_degree.py" />
+        <option value="$PROJECT_DIR$/classifier/rule_based_confirm.py" />
+        <option value="$PROJECT_DIR$/origin_data/dict_data" />
+        <option value="$PROJECT_DIR$/classifier/rule_based_reason.py" />
+        <option value="$PROJECT_DIR$/classifier/classifier_script.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/run.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="472" />
-    <option name="y" value="217" />
-    <option name="width" value="1171" />
-    <option name="height" value="700" />
+    <option name="x" value="-97" />
+    <option name="y" value="147" />
+    <option name="width" value="1717" />
+    <option name="height" value="933" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -58,6 +121,21 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/origin_data" />
+      <recent name="$PROJECT_DIR$/utlis" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/origin_data/dictionary" />
+      <recent name="$PROJECT_DIR$/clssifier" />
+      <recent name="$PROJECT_DIR$/result_data" />
+      <recent name="$PROJECT_DIR$/origin_data" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -70,6 +148,122 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager" selected="Python.run">
+    <configuration name="classifier_script" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="intention" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/classifier" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classifier/classifier_script.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rule_based_confirm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="intention" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/classifier" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classifier/rule_based_confirm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rule_based_reason" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="intention" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/classifier" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classifier/rule_based_reason.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="intention" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="intention" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python.classifier_script" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.rule_based_reason" />
+        <item itemvalue="Python.rule_based_confirm" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -85,30 +279,302 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="472" y="217" width="1171" height="700" extended-state="0" />
+    <frame x="-97" y="147" width="1717" height="933" extended-state="0" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.41217393" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18391484" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3249052" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.17319848" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5202629" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32869786" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14725015" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32506886" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.17355372" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5202629" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3292011" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/rule_based.py">
+    <entry file="file://$PROJECT_DIR$/result_data/条件">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/origin_data/1" />
+    <entry file="file://$PROJECT_DIR$/origin_data/dictionary/process" />
+    <entry file="file://$PROJECT_DIR$/origin_data/dictionary/method" />
+    <entry file="file://$PROJECT_DIR$/origin_data/dictionary/evalution" />
+    <entry file="file://$PROJECT_DIR$/origin_data/dictionary/definition" />
+    <entry file="file://$PROJECT_DIR$/origin_data/dictionary/content" />
+    <entry file="file://$PROJECT_DIR$/origin_data/dictionary/confirm" />
+    <entry file="file://$PROJECT_DIR$/origin_data/dictionary/location" />
+    <entry file="file://$PROJECT_DIR$/origin_data/dictionary/reason" />
+    <entry file="file://$PROJECT_DIR$/origin_data/dictionary/character" />
+    <entry file="file://$PROJECT_DIR$/origin_data/dictionary/condition" />
+    <entry file="file://$PROJECT_DIR$/origin_data/dictionary/recommend" />
+    <entry file="file://$PROJECT_DIR$/origin_data/dictionary/relation" />
+    <entry file="file://$PROJECT_DIR$/origin_data/dictionary/time" />
+    <entry file="file://$PROJECT_DIR$/origin_data/dictionary/degree" />
+    <entry file="file://$PROJECT_DIR$/result_data/程度">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/origin_data/dictionary/amount" />
+    <entry file="file://$PROJECT_DIR$/result_data/内容">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-959" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/origin_data/data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="80" column="29" lean-forward="true" selection-start-line="80" selection-start-column="29" selection-end-line="80" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result_data/确认">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result_data/原因">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-899" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/origin_data/intention_dict_data">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="1480" lean-forward="true" selection-start-line="1480" selection-end-line="1480" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="2017" column="17" lean-forward="true" selection-start-line="2017" selection-start-column="17" selection-end-line="2017" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tag_data">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2625">
+          <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/no_tag_data">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14450" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classifier/rule_based_amount.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="5" selection-end-line="20" selection-end-column="24" />
+          <folding>
+            <element signature="e#16#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classifier/rule_based_character.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="19" lean-forward="true" selection-start-line="5" selection-end-line="33" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result_data/数量">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-890" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result_data/人物">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classifier/rule_based_condition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="16" selection-start-line="5" selection-end-line="38" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classifier/rule_based_confirm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" lean-forward="true" selection-start-line="5" selection-end-line="38" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classifier/rule_based_content.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" lean-forward="true" selection-start-line="5" selection-end-line="34" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classifier/rule_based_definition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" lean-forward="true" selection-start-line="5" selection-end-line="33" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classifier/rule_based_degree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="29" lean-forward="true" selection-start-line="5" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classifier/rule_based_evalution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="29" lean-forward="true" selection-start-line="5" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classifier/rule_based_greeting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="24" lean-forward="true" selection-start-line="5" selection-end-line="33" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classifier/rule_based_location.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="29" lean-forward="true" selection-start-line="5" selection-end-line="20" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classifier/rule_based_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" lean-forward="true" selection-start-line="5" selection-end-line="33" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classifier/rule_based_process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classifier/rule_based_reason.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="19" lean-forward="true" selection-start-line="5" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classifier/rule_based_recommend.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="29" lean-forward="true" selection-start-line="5" selection-end-line="22" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classifier/rule_based_relation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="5" selection-end-line="20" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classifier/rule_based_time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="29" column="5" lean-forward="true" selection-start-line="5" selection-end-line="46" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utlis/load_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-212" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="9" lean-forward="true" selection-start-line="3" selection-end-line="15" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generate_result/tag_data">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-16130" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generate_result/data">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3285" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="24" column="45" lean-forward="true" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classifier/classifier_script.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="514" lean-forward="true" selection-start-line="514" selection-end-line="514" />
+          <folding>
+            <element signature="e#16#25#0" expanded="true" />
+            <element signature="e#125#647#0" />
+            <element signature="e#680#1621#0" />
+            <element signature="e#1663#2756#0" />
+            <element signature="e#2792#3886#0" />
+            <element signature="e#3917#4909#0" />
+            <element signature="e#4943#5934#0" />
+            <element signature="e#5964#6482#0" />
+            <element signature="e#6517#7462#0" />
+            <element signature="e#7496#8438#0" />
+            <element signature="e#8470#8998#0" />
+            <element signature="e#9028#9975#0" />
+            <element signature="e#10006#10534#0" />
+            <element signature="e#10566#12078#0" />
+            <element signature="e#12113#12752#0" />
+            <element signature="e#12784#13312#0" />
+            <element signature="e#13340#14696#0" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
