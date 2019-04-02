@@ -1,20 +1,12 @@
+# coding: utf-8
+
+
 '''
-gbk加载数据
+加载数据
 '''
 
 
 def load_data(path):
-    with open(path, 'r', encoding='gbk')as f:
-        content_list = f.readlines()
-    return content_list
-
-
-'''
-utf-8加载数据
-'''
-
-
-def load_data_1(path):
     with open(path, 'r', encoding='utf-8')as f:
         content_list = f.readlines()
     return content_list
