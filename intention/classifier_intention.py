@@ -10,7 +10,7 @@ from utlis.sort_out import *
 
 def amount():
     word = load_data('./origin_data/temp')
-    dict_data = load_build_dict('./intention_dict_data/数量')
+    dict_data = load_build_dict('./characteristic_word/数量')
 
     temp_1 = dict_data['数量']
     temp_1_1 = temp_1.split('\t')
@@ -32,7 +32,7 @@ def amount():
 
 def character():
     word = load_data('./origin_data/temp')
-    dict_data = load_build_dict('./intention_dict_data/人物')
+    dict_data = load_build_dict('./characteristic_word/人物')
 
     temp_1 = dict_data['哪位']
     temp_1_1 = temp_1.split('\t')
@@ -54,7 +54,7 @@ def character():
 
 def condition():
     word = load_data('./origin_data/temp')
-    dict_data = load_build_dict('./intention_dict_data/条件')
+    dict_data = load_build_dict('./characteristic_word/条件')
 
     temp_1 = dict_data['条件']
     temp_1_1 = temp_1.split('\t')
@@ -101,7 +101,7 @@ def condition():
 def confirm():
     word = load_data('./origin_data/temp')
     word_1 = load_data('./origin_data/query_temp')
-    dict_data = load_build_dict('./intention_dict_data/确认')
+    dict_data = load_build_dict('./characteristic_word/确认')
     zhou = []
 
     temp_1 = dict_data['能']
@@ -146,7 +146,7 @@ def confirm():
 
 def content():
     word = load_data('./origin_data/temp')
-    dict_data = load_build_dict('./intention_dict_data/内容')
+    dict_data = load_build_dict('./characteristic_word/内容')
 
     temp_1 = dict_data['什么']
     temp_1_1 = temp_1.split('\t')
@@ -159,6 +159,10 @@ def content():
     temp_3 = dict_data['解释']
     temp_3_1 = temp_3.split('\t')
     temp_3_1.remove('')
+
+    temp_4 = dict_data['内容']
+    temp_4_1 = temp_4.split('\t')
+    temp_4_1.remove('')
 
     def fun(z):
         for j in temp_1_1:
@@ -176,13 +180,20 @@ def content():
                 else:
                     continue
 
+    def fun_2(o):
+        for m in temp_4_1:
+            if re.match('(.*)' + m + '(.*)', o):
+                return 1
+            else:
+                continue
+
     with open('./intention_result/内容', 'a', encoding='utf-8')as f:
         for i in word:
             if fun(i) == 1:
                 f.write('内容' + '\t' + i)
             elif fun_1(i) == 1:
                 f.write('内容' + '\t' + i)
-            elif re.match('(.*)内容(.*)', i):
+            elif fun_2(i) == 1:
                 f.write('内容' + '\t' + i)
             else:
                 continue
@@ -195,7 +206,7 @@ def content():
 
 def definition():
     word = load_data('./origin_data/temp')
-    dict_data = load_build_dict('./intention_dict_data/定义')
+    dict_data = load_build_dict('./characteristic_word/定义')
 
     temp_1 = dict_data['什么']
     temp_1_1 = temp_1.split('\t')
@@ -237,7 +248,7 @@ def definition():
 
 def degree():
     word = load_data('./origin_data/temp')
-    dict_data = load_build_dict('./intention_dict_data/程度')
+    dict_data = load_build_dict('./characteristic_word/程度')
 
     temp_1 = dict_data['程度']
     temp_1_1 = temp_1.split('\t')
@@ -259,7 +270,7 @@ def degree():
 
 def evalution():
     word = load_data('./origin_data/temp')
-    dict_data = load_build_dict('./intention_dict_data/评价')
+    dict_data = load_build_dict('./characteristic_word/评价')
 
     temp_1 = dict_data['评价']
     temp_1_1 = temp_1.split('\t')
@@ -300,7 +311,7 @@ def evalution():
 
 def greeting():
     word_1 = load_data('./origin_data/query_temp')
-    dict_data = load_build_dict('./intention_dict_data/寒暄')
+    dict_data = load_build_dict('./characteristic_word/寒暄')
     zhou = []
 
     temp_1 = dict_data['你好']
@@ -334,7 +345,7 @@ def greeting():
 
 def location():
     word = load_data('./origin_data/temp')
-    dict_data = load_build_dict('./intention_dict_data/地点')
+    dict_data = load_build_dict('./characteristic_word/地点')
 
     temp_1 = dict_data['哪里']
     temp_1_1 = temp_1.split('\t')
@@ -356,7 +367,7 @@ def location():
 
 def method():
     word = load_data('./origin_data/temp')
-    dict_data = load_build_dict('./intention_dict_data/方式')
+    dict_data = load_build_dict('./characteristic_word/方式')
 
     temp_1 = dict_data['如何']
     temp_1_1 = temp_1.split('\t')
@@ -381,12 +392,21 @@ def method():
             else:
                 continue
 
+    def fun_2(o):
+        for l in temp_1_1:
+            if re.match('(.*)' + l + '(.*)办]$', o):
+                return 1
+            else:
+                continue
+
     with open('./intention_result/方式', 'a', encoding='utf-8')as f:
         for i in word:
             if fun(i) == 1:
                 f.write('方式' + '\t' + i)
             elif fun_1(i) == 1:
                 f.write('方式' + '\t' + i)
+            elif fun_2(i) == 1:
+                f.write('解决方法' + '\t' + i)
             else:
                 continue
 
@@ -398,7 +418,7 @@ def method():
 
 def process():
     word = load_data('./origin_data/temp')
-    dict_data = load_build_dict('./intention_dict_data/流程')
+    dict_data = load_build_dict('./characteristic_word/流程')
 
     temp_1 = dict_data['流程']
     temp_1_1 = temp_1.split('\t')
@@ -420,7 +440,7 @@ def process():
 
 def reason():
     word = load_data('./origin_data/temp')
-    dict_data = load_build_dict('./intention_dict_data/原因')
+    dict_data = load_build_dict('./characteristic_word/原因')
 
     temp_1 = dict_data['怎']
     temp_1_1 = temp_1.split('\t')
@@ -479,7 +499,7 @@ def reason():
 
 def recommend():
     word = load_data('./origin_data/temp')
-    dict_data = load_build_dict('./intention_dict_data/推荐')
+    dict_data = load_build_dict('./characteristic_word/推荐')
 
     temp_1 = dict_data['推荐']
     temp_1_1 = temp_1.split('\t')
@@ -503,7 +523,7 @@ def recommend():
 
 def relation():
     word = load_data('./origin_data/temp')
-    dict_data = load_build_dict('./intention_dict_data/关系')
+    dict_data = load_build_dict('./characteristic_word/关系')
 
     temp_1 = dict_data['关系']
     temp_1_1 = temp_1.split('\t')
@@ -525,7 +545,7 @@ def relation():
 
 def time():
     word = load_data('./origin_data/temp')
-    dict_data = load_build_dict('./intention_dict_data/时间')
+    dict_data = load_build_dict('./characteristic_word/时间')
 
     temp_1 = dict_data['几天']
     temp_1_1 = temp_1.split('\t')

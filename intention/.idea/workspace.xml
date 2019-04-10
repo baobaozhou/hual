@@ -1,15 +1,126 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4aaab6ce-9f12-4021-b225-468b96f1b3da" name="Default Changelist" comment="" />
+    <list default="true" id="4aaab6ce-9f12-4021-b225-468b96f1b3da" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/match_template.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin_data/data.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/intention.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/intention.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classifier_intention.py" beforeDir="false" afterPath="$PROJECT_DIR$/classifier_intention.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_process.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_process.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intention_dict_data/人物" beforeDir="false" afterPath="$PROJECT_DIR$/characteristic_word/人物" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intention_dict_data/关系" beforeDir="false" afterPath="$PROJECT_DIR$/characteristic_word/关系" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intention_dict_data/内容" beforeDir="false" afterPath="$PROJECT_DIR$/characteristic_word/内容" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intention_dict_data/原因" beforeDir="false" afterPath="$PROJECT_DIR$/characteristic_word/原因" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intention_dict_data/地点" beforeDir="false" afterPath="$PROJECT_DIR$/characteristic_word/地点" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intention_dict_data/定义" beforeDir="false" afterPath="$PROJECT_DIR$/characteristic_word/定义" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intention_dict_data/寒暄" beforeDir="false" afterPath="$PROJECT_DIR$/characteristic_word/寒暄" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intention_dict_data/推荐" beforeDir="false" afterPath="$PROJECT_DIR$/characteristic_word/推荐" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intention_dict_data/数量" beforeDir="false" afterPath="$PROJECT_DIR$/characteristic_word/数量" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intention_dict_data/方式" beforeDir="false" afterPath="$PROJECT_DIR$/characteristic_word/方式" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intention_dict_data/时间" beforeDir="false" afterPath="$PROJECT_DIR$/characteristic_word/时间" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intention_dict_data/条件" beforeDir="false" afterPath="$PROJECT_DIR$/characteristic_word/条件" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intention_dict_data/流程" beforeDir="false" afterPath="$PROJECT_DIR$/characteristic_word/流程" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intention_dict_data/确认" beforeDir="false" afterPath="$PROJECT_DIR$/characteristic_word/确认" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intention_dict_data/程度" beforeDir="false" afterPath="$PROJECT_DIR$/characteristic_word/程度" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intention_dict_data/评价" beforeDir="false" afterPath="$PROJECT_DIR$/characteristic_word/评价" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utlis/clean_template.py" beforeDir="false" afterPath="$PROJECT_DIR$/utlis/clean_template.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utlis/load_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/utlis/load_file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utlis/read_excel.py" beforeDir="false" afterPath="$PROJECT_DIR$/utlis/read_excel.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1708547294">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="1" value="4" />
+          <entry key="annotation_rule" value="15" />
+          <entry key="expand_template" value="13" />
+          <entry key="hui" value="1" />
+          <entry key="match_template" value="10" />
+          <entry key="md" value="2" />
+          <entry key="pre_property_data" value="1" />
+          <entry key="pre_result" value="10" />
+          <entry key="predict_result" value="1" />
+          <entry key="py" value="73" />
+          <entry key="quan" value="1" />
+          <entry key="query_temp" value="2" />
+          <entry key="res" value="1" />
+          <entry key="res_show" value="4" />
+          <entry key="temp" value="6" />
+          <entry key="temp1" value="4" />
+          <entry key="temp_data" value="31" />
+          <entry key="template_dict" value="10" />
+          <entry key="test" value="26" />
+          <entry key="test_data" value="5" />
+          <entry key="人物" value="16" />
+          <entry key="关系" value="12" />
+          <entry key="内容" value="17" />
+          <entry key="原因" value="12" />
+          <entry key="地点" value="9" />
+          <entry key="定义" value="20" />
+          <entry key="寒暄" value="9" />
+          <entry key="推荐" value="8" />
+          <entry key="数量" value="9" />
+          <entry key="方式" value="28" />
+          <entry key="时间" value="6" />
+          <entry key="条件" value="7" />
+          <entry key="流程" value="5" />
+          <entry key="确认" value="9" />
+          <entry key="程度" value="7" />
+          <entry key="评价" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Markdown" value="2" />
+          <entry key="PLAIN_TEXT" value="326" />
+          <entry key="Python" value="73" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="1" value="26" />
+          <entry key="md" value="158" />
+          <entry key="py" value="5722" />
+          <entry key="template_dict" value="409" />
+          <entry key="test" value="124" />
+          <entry key="内容" value="1" />
+          <entry key="原因" value="10" />
+          <entry key="定义" value="1" />
+          <entry key="推荐" value="1" />
+          <entry key="数量" value="3" />
+          <entry key="方式" value="19" />
+          <entry key="确认" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Markdown" value="158" />
+          <entry key="PLAIN_TEXT" value="598" />
+          <entry key="Python" value="5722" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -20,7 +131,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>流程</find>
       <find>步骤</find>
       <find>什么</find>
       <find>方式</find>
@@ -35,77 +145,98 @@
       <find>[是][什么]</find>
       <find>定义</find>
       <find>吗</find>
+      <find>产品拥金在哪里看</find>
+      <find>任务积分去哪里领</find>
+      <find>temp_4</find>
+      <find>不</find>
+      <find>[v][怎么][v][n]</find>
+      <find>[n][n][v][哪些]</find>
+      <find>[n][n][v][谁]</find>
+      <find>[谢谢]</find>
+      <find>[v][什么][程度]</find>
+      <find>[为什么][v][不][n]</find>
+      <find>[多少][n]</find>
+      <find>[n][有][哪些]</find>
+      <find>[v][n][有][多少][n]</find>
+      <find>[n][哪个]</find>
+      <find>[有][n][v][有][n]</find>
+      <find>[n][v][介绍]</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test.sh" />
-        <option value="$PROJECT_DIR$/origin_data/1.txt" />
-        <option value="$PROJECT_DIR$/utlis/sort_out.py" />
-        <option value="$PROJECT_DIR$/utlis/load_file.py" />
-        <option value="$PROJECT_DIR$/no_tag_data" />
-        <option value="$PROJECT_DIR$/origin_data/1.py" />
-        <option value="$PROJECT_DIR$/result_data/数量" />
-        <option value="$PROJECT_DIR$/result_data/条件" />
-        <option value="$PROJECT_DIR$/result_data/确认" />
-        <option value="$PROJECT_DIR$/result_data/地点" />
-        <option value="$PROJECT_DIR$/result_data/定义" />
-        <option value="$PROJECT_DIR$/1.py" />
-        <option value="$PROJECT_DIR$/result_data/评价" />
-        <option value="$PROJECT_DIR$/result_data/方式" />
-        <option value="$PROJECT_DIR$/origin_data/1" />
-        <option value="$PROJECT_DIR$/origin_data/amount" />
-        <option value="$PROJECT_DIR$/origin_data/dictionary/character" />
-        <option value="$PROJECT_DIR$/classifier/rule_based_character.py" />
-        <option value="$PROJECT_DIR$/origin_data/dictionary/confirm" />
-        <option value="$PROJECT_DIR$/classifier/rule_based_definition.py" />
-        <option value="$PROJECT_DIR$/origin_data/dictionary/definition" />
-        <option value="$PROJECT_DIR$/origin_data/dictionary/content" />
-        <option value="$PROJECT_DIR$/origin_data/dictionary/condition" />
-        <option value="$PROJECT_DIR$/origin_data/dictionary/degree" />
-        <option value="$PROJECT_DIR$/classifier/rule_based_greeting.py" />
-        <option value="$PROJECT_DIR$/origin_data/dictionary/location" />
-        <option value="$PROJECT_DIR$/classifier/rule_based_location.py" />
-        <option value="$PROJECT_DIR$/classifier/rule_based_method.py" />
-        <option value="$PROJECT_DIR$/origin_data/dictionary/method" />
-        <option value="$PROJECT_DIR$/origin_data/dictionary/evalution" />
-        <option value="$PROJECT_DIR$/classifier/rule_based_evalution.py" />
-        <option value="$PROJECT_DIR$/origin_data/dictionary/process" />
-        <option value="$PROJECT_DIR$/classifier/rule_based_process.py" />
-        <option value="$PROJECT_DIR$/origin_data/dictionary/reason" />
-        <option value="$PROJECT_DIR$/origin_data/dictionary/recommend" />
-        <option value="$PROJECT_DIR$/origin_data/dictionary/relation" />
-        <option value="$PROJECT_DIR$/classifier/rule_based_recommend.py" />
-        <option value="$PROJECT_DIR$/origin_data/dictionary/time" />
-        <option value="$PROJECT_DIR$/classifier/rule_based_time.py" />
-        <option value="$PROJECT_DIR$/origin_data/dictionary/amount" />
-        <option value="$PROJECT_DIR$/classifier/rule_based_amount.py" />
-        <option value="$PROJECT_DIR$/classifier/rule_based_condition.py" />
-        <option value="$PROJECT_DIR$/classifier/rule_based_relation.py" />
-        <option value="$PROJECT_DIR$/classifier/rule_based_content.py" />
-        <option value="$PROJECT_DIR$/classifier/rule_based_degree.py" />
-        <option value="$PROJECT_DIR$/classifier/rule_based_confirm.py" />
-        <option value="$PROJECT_DIR$/origin_data/dict_data" />
-        <option value="$PROJECT_DIR$/classifier/rule_based_reason.py" />
-        <option value="$PROJECT_DIR$/classifier/classifier_script.py" />
         <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/run.py" />
+        <option value="$PROJECT_DIR$/utlis/read_excel.py" />
+        <option value="$PROJECT_DIR$/test" />
+        <option value="$PROJECT_DIR$/test_data" />
+        <option value="$PROJECT_DIR$/1.py" />
+        <option value="$PROJECT_DIR$/pre_result" />
+        <option value="$PROJECT_DIR$/res" />
+        <option value="$PROJECT_DIR$/intention_dict_data/原因" />
+        <option value="$PROJECT_DIR$/template_library/地点" />
+        <option value="$PROJECT_DIR$/template_library/test" />
+        <option value="$PROJECT_DIR$/template_library/人物" />
+        <option value="$PROJECT_DIR$/template_library/关系" />
+        <option value="$PROJECT_DIR$/characteristic_word/原因" />
+        <option value="$PROJECT_DIR$/template_library/原因" />
+        <option value="$PROJECT_DIR$/template_library/寒暄" />
+        <option value="$PROJECT_DIR$/utlis/load_file.py" />
+        <option value="$PROJECT_DIR$/characteristic_word/推荐" />
+        <option value="$PROJECT_DIR$/characteristic_word/定义" />
+        <option value="$PROJECT_DIR$/characteristic_word/内容" />
+        <option value="$PROJECT_DIR$/template_library/定义" />
+        <option value="$PROJECT_DIR$/template_library/推荐" />
+        <option value="$PROJECT_DIR$/characteristic_word/数量" />
+        <option value="$PROJECT_DIR$/template_library/数量" />
+        <option value="$PROJECT_DIR$/template_library/时间" />
+        <option value="$PROJECT_DIR$/template_library/条件" />
+        <option value="$PROJECT_DIR$/template_library/流程" />
+        <option value="$PROJECT_DIR$/characteristic_word/确认" />
+        <option value="$PROJECT_DIR$/template_library/确认" />
+        <option value="$PROJECT_DIR$/template_library/程度" />
+        <option value="$PROJECT_DIR$/template_data/template_dict" />
+        <option value="$PROJECT_DIR$/template_library/评价" />
+        <option value="$PROJECT_DIR$/hui" />
+        <option value="$PROJECT_DIR$/zhou.py" />
+        <option value="$PROJECT_DIR$/quan" />
+        <option value="$PROJECT_DIR$/template_library/方式" />
+        <option value="$PROJECT_DIR$/data_process.py" />
+        <option value="$PROJECT_DIR$/annotation_rule" />
+        <option value="$PROJECT_DIR$/predicting_properties.py" />
+        <option value="$PROJECT_DIR$/extraction_annotation_rule.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/characteristic_word/方式" />
+        <option value="$PROJECT_DIR$/classifier_intention.py" />
+        <option value="$PROJECT_DIR$/generate_result/expand_template" />
+        <option value="$PROJECT_DIR$/generate_result/test" />
+        <option value="$PROJECT_DIR$/template_library/内容" />
+        <option value="$PROJECT_DIR$/template_data/temp1" />
+        <option value="$PROJECT_DIR$/template_data/1" />
+        <option value="$PROJECT_DIR$/template_data/match_template" />
+        <option value="$PROJECT_DIR$/match_template.py" />
+        <option value="$PROJECT_DIR$/../../HOG3.py" />
+        <option value="$PROJECT_DIR$/template_data/1.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-97" />
-    <option name="y" value="147" />
-    <option name="width" value="1717" />
-    <option name="height" value="933" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="170" />
+    <option name="y" value="135" />
+    <option name="width" value="1345" />
+    <option name="height" value="702" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -113,14 +244,25 @@
               <item name="intention" type="b2602c69:ProjectViewProjectNode" />
               <item name="intention" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="intention" type="b2602c69:ProjectViewProjectNode" />
+              <item name="intention" type="462c0819:PsiDirectoryNode" />
+              <item name="origin_data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="intention" type="b2602c69:ProjectViewProjectNode" />
+              <item name="intention" type="462c0819:PsiDirectoryNode" />
+              <item name="template_data" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../train" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -130,11 +272,11 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\墨宝宝大撒比\Desktop\hual\intention\origin_data" />
+      <recent name="C:\Users\墨宝宝大撒比\Desktop\hual\intention\template_library" />
+      <recent name="C:\Users\墨宝宝大撒比\Desktop\hual\intention" />
       <recent name="$PROJECT_DIR$/origin_data/dictionary" />
       <recent name="$PROJECT_DIR$/clssifier" />
-      <recent name="$PROJECT_DIR$/result_data" />
-      <recent name="$PROJECT_DIR$/origin_data" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -149,8 +291,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.run">
-    <configuration name="classifier_script" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.1 (1)">
+    <configuration name="1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="intention" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -158,11 +300,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/classifier" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/template_data" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classifier/classifier_script.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/template_data/1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,49 +313,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="rule_based_confirm" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="intention" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/classifier" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classifier/rule_based_confirm.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="rule_based_reason" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="intention" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/classifier" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classifier/rule_based_reason.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="extraction_annotation_rule" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="intention" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -225,7 +325,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/extraction_annotation_rule.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -234,7 +334,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="match_template" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="intention" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -246,7 +346,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/match_template.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -255,13 +355,62 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="predicting_properties" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="intention" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/predicting_properties.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zhou" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="intention" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zhou.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.extraction_annotation_rule" />
+      <item itemvalue="Python.predicting_properties" />
+      <item itemvalue="Python.match_template" />
+      <item itemvalue="Python.zhou" />
+      <item itemvalue="Python.1 (1)" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.run" />
-        <item itemvalue="Python.classifier_script" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.rule_based_reason" />
-        <item itemvalue="Python.rule_based_confirm" />
+        <item itemvalue="Python.1 (1)" />
+        <item itemvalue="Python.match_template" />
+        <item itemvalue="Python.predicting_properties" />
+        <item itemvalue="Python.extraction_annotation_rule" />
+        <item itemvalue="Python.zhou" />
       </list>
     </recent_temporary>
   </component>
@@ -279,15 +428,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-97" y="147" width="1717" height="933" extended-state="0" />
+    <frame x="-8" y="22" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18391484" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22916667" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3249052" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.17319848" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5202629" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32223415" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.21001616" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.46079484" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -300,18 +449,18 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14725015" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22916667" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32506886" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.17355372" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5202629" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32223415" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.016155088" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.26100966" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3292011" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32869786" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -319,260 +468,354 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout-to-restore>
   </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/result_data/条件">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/origin_data/1" />
-    <entry file="file://$PROJECT_DIR$/origin_data/dictionary/process" />
-    <entry file="file://$PROJECT_DIR$/origin_data/dictionary/method" />
-    <entry file="file://$PROJECT_DIR$/origin_data/dictionary/evalution" />
-    <entry file="file://$PROJECT_DIR$/origin_data/dictionary/definition" />
-    <entry file="file://$PROJECT_DIR$/origin_data/dictionary/content" />
-    <entry file="file://$PROJECT_DIR$/origin_data/dictionary/confirm" />
-    <entry file="file://$PROJECT_DIR$/origin_data/dictionary/location" />
-    <entry file="file://$PROJECT_DIR$/origin_data/dictionary/reason" />
-    <entry file="file://$PROJECT_DIR$/origin_data/dictionary/character" />
-    <entry file="file://$PROJECT_DIR$/origin_data/dictionary/condition" />
-    <entry file="file://$PROJECT_DIR$/origin_data/dictionary/recommend" />
-    <entry file="file://$PROJECT_DIR$/origin_data/dictionary/relation" />
-    <entry file="file://$PROJECT_DIR$/origin_data/dictionary/time" />
-    <entry file="file://$PROJECT_DIR$/origin_data/dictionary/degree" />
-    <entry file="file://$PROJECT_DIR$/result_data/程度">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/origin_data/dictionary/amount" />
-    <entry file="file://$PROJECT_DIR$/result_data/内容">
+    <entry file="file://$PROJECT_DIR$/characteristic_word/流程">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-959" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/origin_data/data.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="80" column="29" lean-forward="true" selection-start-line="80" selection-start-column="29" selection-end-line="80" selection-end-column="29" />
+        <state>
+          <caret column="1" lean-forward="true" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/result_data/确认">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/result_data/原因">
+    <entry file="file://$PROJECT_DIR$/characteristic_word/确认">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-899" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/origin_data/intention_dict_data">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        <state relative-caret-position="42">
+          <caret line="2" column="11" lean-forward="true" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/result">
+    <entry file="file://$PROJECT_DIR$/characteristic_word/程度">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="1480" lean-forward="true" selection-start-line="1480" selection-end-line="1480" />
+        <state>
+          <caret column="2" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data">
+    <entry file="file://$PROJECT_DIR$/characteristic_word/评价">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="2017" column="17" lean-forward="true" selection-start-line="2017" selection-start-column="17" selection-end-line="2017" selection-end-column="17" />
+        <state>
+          <caret lean-forward="true" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tag_data">
+    <entry file="file://$PROJECT_DIR$/hui" />
+    <entry file="file://$PROJECT_DIR$/zhou.py" />
+    <entry file="file://$PROJECT_DIR$/quan" />
+    <entry file="file://$PROJECT_DIR$/template_data/template_dict">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2625">
-          <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+        <state relative-caret-position="467">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/no_tag_data">
+    <entry file="file://$PROJECT_DIR$/template_library/原因">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-14450" />
+        <state relative-caret-position="273">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/classifier/rule_based_amount.py">
+    <entry file="file://$PROJECT_DIR$/template_library/地点">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="22" column="18" lean-forward="true" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template_library/推荐">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="5" selection-end-line="20" selection-end-column="24" />
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template_library/数量">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template_library/时间">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template_library/条件">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template_library/流程">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template_library/确认">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template_library/评价">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template_library/程度">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/annotation_rule">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res_show">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="380" column="48" lean-forward="true" selection-start-line="380" selection-start-column="48" selection-end-line="380" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generate_result/annotation_rule">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generate_result/pre_property_data">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generate_result/predict_result">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/characteristic_word/方式">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/predicting_properties.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1134">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
           <folding>
-            <element signature="e#16#25#0" expanded="true" />
+            <element signature="e#0#29#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/classifier/rule_based_character.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="19" lean-forward="true" selection-start-line="5" selection-end-line="33" selection-end-column="24" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="273">
+            <caret line="13" column="6" lean-forward="true" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/result_data/数量">
+    <entry file="file://$PROJECT_DIR$/classifier_intention.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-890" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/result_data/人物">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classifier/rule_based_condition.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="9" column="16" selection-start-line="5" selection-end-line="38" selection-end-column="28" />
+        <state relative-caret-position="233">
+          <caret line="388" column="26" lean-forward="true" selection-start-line="388" selection-start-column="26" selection-end-line="388" selection-end-column="26" />
+          <folding>
+            <element signature="e#117#574#0" />
+            <element signature="e#611#1068#0" />
+            <element signature="e#1105#2128#0" />
+            <element signature="e#2163#3216#0" />
+            <element signature="e#3251#4656#0" />
+            <element signature="e#4694#5698#0" />
+            <element signature="e#5732#6189#0" />
+            <element signature="e#6226#7155#0" />
+            <element signature="e#7191#7908#0" />
+            <element signature="e#7944#8401#0" />
+            <marker date="1554704497602" expanded="true" signature="4163:4313" ph="..." />
+            <marker date="1554704497602" expanded="true" signature="9164:9317" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/classifier/rule_based_confirm.py">
+    <entry file="file://$PROJECT_DIR$/template_library/方式">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="7" lean-forward="true" selection-start-line="5" selection-end-line="38" selection-end-column="24" />
+        <state relative-caret-position="278">
+          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classifier/rule_based_content.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" lean-forward="true" selection-start-line="5" selection-end-line="34" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classifier/rule_based_definition.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" lean-forward="true" selection-start-line="5" selection-end-line="33" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classifier/rule_based_degree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="9" column="29" lean-forward="true" selection-start-line="5" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classifier/rule_based_evalution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="9" column="29" lean-forward="true" selection-start-line="5" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classifier/rule_based_greeting.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" column="24" lean-forward="true" selection-start-line="5" selection-end-line="33" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classifier/rule_based_location.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="9" column="29" lean-forward="true" selection-start-line="5" selection-end-line="20" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classifier/rule_based_method.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="15" lean-forward="true" selection-start-line="5" selection-end-line="33" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classifier/rule_based_process.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classifier/rule_based_reason.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="14" column="19" lean-forward="true" selection-start-line="5" selection-end-line="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classifier/rule_based_recommend.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="9" column="29" lean-forward="true" selection-start-line="5" selection-end-line="22" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classifier/rule_based_relation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="5" selection-end-line="20" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classifier/rule_based_time.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="29" column="5" lean-forward="true" selection-start-line="5" selection-end-line="46" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utlis/load_file.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-212" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="9" lean-forward="true" selection-start-line="3" selection-end-line="15" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/generate_result/tag_data">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-16130" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/generate_result/data">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3285" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/run.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="24" column="45" lean-forward="true" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
+        <state relative-caret-position="168">
+          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
           <folding>
             <element signature="e#0#33#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/classifier/classifier_script.py">
+    <entry file="file://$PROJECT_DIR$/utlis/load_file.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="514" lean-forward="true" selection-start-line="514" selection-end-line="514" />
+        <state relative-caret-position="-189">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generate_result/test">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generate_result/expand_template">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="6" lean-forward="true" selection-start-line="1" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template_library/关系">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template_library/内容">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template_library/人物">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/origin_data/temp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template_library/寒暄">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
           <folding>
-            <element signature="e#16#25#0" expanded="true" />
-            <element signature="e#125#647#0" />
-            <element signature="e#680#1621#0" />
-            <element signature="e#1663#2756#0" />
-            <element signature="e#2792#3886#0" />
-            <element signature="e#3917#4909#0" />
-            <element signature="e#4943#5934#0" />
-            <element signature="e#5964#6482#0" />
-            <element signature="e#6517#7462#0" />
-            <element signature="e#7496#8438#0" />
-            <element signature="e#8470#8998#0" />
-            <element signature="e#9028#9975#0" />
-            <element signature="e#10006#10534#0" />
-            <element signature="e#10566#12078#0" />
-            <element signature="e#12113#12752#0" />
-            <element signature="e#12784#13312#0" />
-            <element signature="e#13340#14696#0" />
+            <element signature="e#0#30#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extraction_annotation_rule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template_data/temp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template_data/1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/origin_data/temp_data">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template_data/expand_template">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="720" column="31" lean-forward="true" selection-start-line="720" selection-start-column="31" selection-end-line="720" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template_data/temp_data">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="618" column="8" lean-forward="true" selection-start-line="618" selection-end-line="618" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../HOG3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="98" lean-forward="true" selection-start-line="98" selection-end-line="98" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template_library/定义">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template_data/temp1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="119" column="31" lean-forward="true" selection-start-line="119" selection-start-column="31" selection-end-line="119" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template_data/match_template">
+      <provider editor-type-id="LargeFileEditor">
+        <state relative-caret-position="146433">
+          <caret line="6973" column="10" lean-forward="true" selection-start-line="6973" selection-start-column="10" selection-end-line="6973" selection-end-column="10" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="615" column="29" lean-forward="true" selection-start-line="615" selection-start-column="29" selection-end-line="615" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/match_template.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="67" column="28" lean-forward="true" selection-start-line="67" selection-start-column="28" selection-end-line="67" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template_data/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="31" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="35" />
         </state>
       </provider>
     </entry>

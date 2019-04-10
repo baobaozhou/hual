@@ -1,26 +1,19 @@
+import re
 def clean_template(data_path, save_path):
-    with open(data_path, 'r', encoding='utf-8')as f:
-        for line in f.readlines():
-            line.replace('{{entity}}', '[n]')
-            line.replace('t', '')
-            line.replace('s', '')
-            line.replace('f', '')
-            line.replace('a', '')
-            line.replace('b', '')
-            line.replace('z', '')
-            line.replace('r', '')
-            line.replace('m', '')
-            line.replace('q', '')
-            line.replace('d', '')
-            line.replace('p', '')
-            line.replace('c', '')
-            line.replace('u', '')
-            line.replace('e', '')
-            line.replace('y', '')
-            line.replace('o', '')
-            line.replace('h', '')
-            line.replace('k', '')
-            line.replace('x', '')
-            line.replace('w', '')
-            with open(save_path, 'a', encoding='utf-8')as f_1:
-                f_1.write(line)
+    relu = ['t', 's', 'f', 'a', 'b', 'z', 'r', 'm', 'q', 'd', 'p', 'c', 'u', 'e', 'y', 'o', 'h', 'k', 'x', 'w', 'j',
+            'l']
+    with open(save_path, 'a', encoding='utf-8')as f_1:
+        with open('./origin_data/temp_data', 'r', encoding='utf-8')as f:
+            for line in f.readlines():
+                temp = line.replace('{{entity}}', '[n]').strip('\n')
+                temp_1 = re.findall('(?<=\\[)[^\\]]+', temp)
+                if all(j not in relu for j in temp_1):
+                    f_1.write(temp + '\n')
+                else:
+                    for j in temp_1:
+                        if j in relu:
+                            hui = temp.replace('[' + j + ']', '')
+                            temp = hui
+                        else:
+                            continue
+                    f_1.write(temp + '\n')

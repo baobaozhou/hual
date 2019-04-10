@@ -2,21 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bfe2033-d032-4b67-918f-ba3cea46bd16" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/intention/classifier_intention.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intention/intention_dict_data/时间" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intention/utlis/clean_template.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intention/utlis/read_excel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intention/classifier_script.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intention/origin_data/data.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intention/origin_data/intention_dict_data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intention/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/intention/run.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intention/utlis/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/intention/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intention/utlis/load_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/intention/utlis/load_file.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intention/utlis/sort_out.py" beforeDir="false" afterPath="$PROJECT_DIR$/intention/utlis/sort_out.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jingyou/deal_sougou_dictionary.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jingyou/parti_ciple.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jingyou/processing_opinions_data.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jingyou/regular_classification.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/intention/match_template.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intention/origin_data/1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intention/origin_data/data.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intention/data_process.py" beforeDir="false" afterPath="$PROJECT_DIR$/intention/data_process.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intention/utlis/clean_template.py" beforeDir="false" afterPath="$PROJECT_DIR$/intention/utlis/clean_template.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intention/utlis/read_excel.py" beforeDir="false" afterPath="$PROJECT_DIR$/intention/utlis/read_excel.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,31 +20,33 @@
     <session id="-1697329792">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.16" value="2" />
+          <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="1" value="8" />
+          <entry key="1" value="10" />
           <entry key="2" value="1" />
           <entry key="dict" value="2" />
+          <entry key="grammar" value="1" />
           <entry key="intention_dict_data" value="4" />
           <entry key="md" value="4" />
-          <entry key="py" value="36" />
+          <entry key="py" value="42" />
           <entry key="query" value="4" />
           <entry key="query_data" value="14" />
           <entry key="query_tag_data" value="7" />
           <entry key="query_temp" value="2" />
           <entry key="result" value="2" />
           <entry key="tag_data" value="9" />
-          <entry key="temp" value="2" />
-          <entry key="temp_data" value="17" />
+          <entry key="temp" value="3" />
+          <entry key="temp_data" value="23" />
           <entry key="test" value="2" />
-          <entry key="txt" value="7" />
-          <entry key="人物" value="14" />
+          <entry key="txt" value="9" />
+          <entry key="人物" value="15" />
           <entry key="关系" value="7" />
           <entry key="内容" value="19" />
           <entry key="原因" value="7" />
@@ -73,18 +67,18 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="4" />
-          <entry key="PLAIN_TEXT" value="246" />
-          <entry key="Python" value="36" />
+          <entry key="PLAIN_TEXT" value="259" />
+          <entry key="Python" value="42" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="1" value="27" />
+          <entry key="1" value="32" />
           <entry key="dict" value="23" />
           <entry key="dummy" value="9" />
           <entry key="intention_dict_data" value="47" />
           <entry key="md" value="90" />
-          <entry key="py" value="5046" />
+          <entry key="py" value="5730" />
           <entry key="query" value="1" />
           <entry key="temp_data" value="1" />
           <entry key="txt" value="1" />
@@ -108,8 +102,8 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="90" />
-          <entry key="PLAIN_TEXT" value="468" />
-          <entry key="Python" value="5046" />
+          <entry key="PLAIN_TEXT" value="473" />
+          <entry key="Python" value="5730" />
         </counts>
       </usages-collector>
     </session>
@@ -117,52 +111,59 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/intention/classifier_intention.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-858">
-              <caret line="334" column="15" selection-start-line="334" selection-start-column="15" selection-end-line="334" selection-end-column="15" />
-              <folding>
-                <element signature="e#16#25#0" expanded="true" />
-                <element signature="e#117#574#0" />
-                <element signature="e#611#1068#0" />
-                <element signature="e#1105#2128#0" />
-                <element signature="e#2163#3216#0" />
-                <element signature="e#3251#4417#0" />
-                <element signature="e#4455#5459#0" />
-                <element signature="e#5493#5950#0" />
-                <element signature="e#5987#6916#0" />
-                <element signature="e#6952#7669#0" />
-                <element signature="e#7705#8162#0" />
-                <element signature="e#8196#9182#0" />
-                <element signature="e#9217#9674#0" />
-                <element signature="e#9708#11053#0" />
-                <element signature="e#11090#11644#0" />
-                <element signature="e#11680#12137#0" />
-                <element signature="e#12169#13367#0" />
-                <marker date="1554175856317" expanded="true" signature="3852:4062" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/intention/data_process.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="399">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/intention/run.py">
+        <entry file="file://$PROJECT_DIR$/intention/utlis/sort_out.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/intention/utlis/clean_template.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
-              <folding>
-                <element signature="e#0#33#0" expanded="true" />
-                <marker date="1554178417120" expanded="true" signature="143:555" ph="..." />
-              </folding>
+            <state relative-caret-position="378">
+              <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/intention/match_template.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/intention/template_data/temp_data">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/intention/origin_data/1">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/intention/origin_data/temp_data">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="651">
+              <caret line="31" column="13" lean-forward="true" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -233,19 +234,21 @@
         <option value="$PROJECT_DIR$/intention/intention_result/确认" />
         <option value="$PROJECT_DIR$/intention/intention_dict_data/确认" />
         <option value="$PROJECT_DIR$/intention/test" />
-        <option value="$PROJECT_DIR$/intention/utlis/read_excel.py" />
-        <option value="$PROJECT_DIR$/intention/data_process.py" />
         <option value="$PROJECT_DIR$/intention/utlis/load_file.py" />
         <option value="$PROJECT_DIR$/intention/classifier_script.py" />
         <option value="$PROJECT_DIR$/intention/README.md" />
-        <option value="$PROJECT_DIR$/intention/utlis/clean_template.py" />
         <option value="$PROJECT_DIR$/intention/run.py" />
+        <option value="$PROJECT_DIR$/intention/utlis/read_excel.py" />
+        <option value="$PROJECT_DIR$/intention/data_process.py" />
+        <option value="$PROJECT_DIR$/intention/origin_data/1" />
+        <option value="$PROJECT_DIR$/intention/utlis/clean_template.py" />
+        <option value="$PROJECT_DIR$/intention/match_template.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="615" />
-    <option name="y" value="171" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="289" />
+    <option name="y" value="157" />
     <option name="width" value="1378" />
     <option name="height" value="857" />
   </component>
@@ -272,10 +275,13 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/intention" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\墨宝宝大撒比\Desktop\hual\intention\origin_data" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\墨宝宝大撒比\Desktop\hual\intention\origin_data" />
     </key>
@@ -292,7 +298,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.run">
+  <component name="RunManager" selected="Python.match_template">
     <configuration name="classifier_intention" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="hual" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -356,6 +362,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="match_template" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="hual" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/intention" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/intention/match_template.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="hual" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -377,41 +404,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="template" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="hual" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/intention" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/intention/template.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.data_process" />
       <item itemvalue="Python.classifier_script" />
       <item itemvalue="Python.run" />
-      <item itemvalue="Python.template" />
       <item itemvalue="Python.classifier_intention" />
+      <item itemvalue="Python.match_template" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.match_template" />
+        <item itemvalue="Python.data_process" />
         <item itemvalue="Python.run" />
         <item itemvalue="Python.classifier_intention" />
-        <item itemvalue="Python.data_process" />
         <item itemvalue="Python.classifier_script" />
-        <item itemvalue="Python.template" />
       </list>
     </recent_temporary>
   </component>
@@ -429,15 +435,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="615" y="171" width="1378" height="857" extended-state="0" />
+    <frame x="-8" y="22" width="1936" height="1066" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20447761" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20442571" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32409972" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.18836565" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32330826" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25349087" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39957035" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -454,8 +460,8 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32561985" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.20330578" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32409972" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.18836565" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -473,69 +479,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/intention/intention_dict_data/程度">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intention/intention_dict_data/评价">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intention/intention_dict_data/方式">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="6" lean-forward="true" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intention/intention_dict_data/数量">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intention/intention_dict_data/推荐">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intention/intention_dict_data/寒暄">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intention/intention_dict_data/定义">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="46" lean-forward="true" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intention/intention_dict_data/条件">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intention/intention_dict_data/流程">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/intention/intention_dict_data/原因">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
@@ -557,13 +500,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/intention/intention_dict_data/人物">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/intention/intention_dict_data/内容">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
@@ -578,66 +514,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/intention/generate_result/temp_data">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="3595" column="23" selection-start-line="3595" selection-start-column="23" selection-end-line="3595" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intention/generate_result/query_temp_data">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="17" column="25" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intention/generate_result/query_tag_data">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="2978" column="23" selection-start-line="2978" selection-start-column="4" selection-end-line="2978" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intention/origin_data/query">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="7587" lean-forward="true" selection-start-line="7587" selection-end-line="7587" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intention/origin_data/data.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="7572" column="26" selection-start-line="7572" selection-start-column="26" selection-end-line="7572" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intention/test">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intention/utlis/read_excel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-            <marker date="1554174943475" expanded="true" signature="118:119" ph="..." />
-            <marker date="1554174943475" expanded="true" signature="559:892" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intention/template.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intention/origin_data/temp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/intention/generate_result/temp_data" />
+    <entry file="file://$PROJECT_DIR$/intention/generate_result/query_temp_data" />
+    <entry file="file://$PROJECT_DIR$/intention/generate_result/query_tag_data" />
+    <entry file="file://$PROJECT_DIR$/intention/origin_data/query" />
+    <entry file="file://$PROJECT_DIR$/intention/origin_data/data.txt" />
+    <entry file="file://$PROJECT_DIR$/intention/test" />
+    <entry file="file://$PROJECT_DIR$/intention/template.py" />
     <entry file="file://$PROJECT_DIR$/intention/utlis/load_file.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -645,66 +528,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/intention/intention_result/1">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intention/intention_result/人物">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intention/intention_result/内容">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="95" selection-start-line="95" selection-end-line="95" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intention/intention_result/原因">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intention/intention_result/地点">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intention/intention_result/定义">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intention/intention_result/时间">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intention/intention_result/条件">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intention/intention_result/流程">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intention/intention_result/确认">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="43" column="21" lean-forward="true" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intention/intention_result/程度">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intention/intention_result/方式">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intention/intention_result/数量">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intention/intention_result/推荐">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intention/intention_result/寒暄">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intention/intention_result/评价">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/intention/intention_result/1" />
+    <entry file="file://$PROJECT_DIR$/intention/intention_result/人物" />
+    <entry file="file://$PROJECT_DIR$/intention/intention_result/内容" />
+    <entry file="file://$PROJECT_DIR$/intention/intention_result/原因" />
+    <entry file="file://$PROJECT_DIR$/intention/intention_result/地点" />
+    <entry file="file://$PROJECT_DIR$/intention/intention_result/定义" />
+    <entry file="file://$PROJECT_DIR$/intention/intention_result/时间" />
+    <entry file="file://$PROJECT_DIR$/intention/intention_result/条件" />
+    <entry file="file://$PROJECT_DIR$/intention/intention_result/流程" />
+    <entry file="file://$PROJECT_DIR$/intention/intention_result/确认" />
+    <entry file="file://$PROJECT_DIR$/intention/intention_result/程度" />
+    <entry file="file://$PROJECT_DIR$/intention/intention_result/方式" />
+    <entry file="file://$PROJECT_DIR$/intention/intention_result/数量" />
+    <entry file="file://$PROJECT_DIR$/intention/intention_result/推荐" />
+    <entry file="file://$PROJECT_DIR$/intention/intention_result/寒暄" />
+    <entry file="file://$PROJECT_DIR$/intention/intention_result/评价" />
     <entry file="file://$PROJECT_DIR$/intention/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -715,47 +554,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/intention/generate_result/tag_data">
+    <entry file="file://$PROJECT_DIR$/intention/generate_result/tag_data" />
+    <entry file="file://$PROJECT_DIR$/intention/intention_result/关系" />
+    <entry file="file://$PROJECT_DIR$/intention/origin_data/query_temp" />
+    <entry file="file://$PROJECT_DIR$/intention/result" />
+    <entry file="file://$PROJECT_DIR$/intention/intention_dict_data/时间">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="2600" column="21" selection-start-line="2600" selection-start-column="21" selection-end-line="2600" selection-end-column="21" />
+        <state relative-caret-position="42">
+          <caret line="2" column="50" lean-forward="true" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/intention/intention_result/关系">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intention/origin_data/query_temp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intention/result">
+    <entry file="file://$PROJECT_DIR$/intention/utlis/read_excel.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="38" lean-forward="true" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+        <state relative-caret-position="21">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <marker date="1554187386214" expanded="true" signature="90:91" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/intention/utlis/clean_template.py">
+    <entry file="file://$PROJECT_DIR$/intention/origin_data/temp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
+        <state relative-caret-position="-75502" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/intention/run.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
+        <state relative-caret-position="147">
           <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
           <folding>
             <element signature="e#0#33#0" expanded="true" />
-            <marker date="1554178417120" expanded="true" signature="143:555" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/intention/classifier_intention.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-858">
+        <state relative-caret-position="378">
           <caret line="334" column="15" selection-start-line="334" selection-start-column="15" selection-end-line="334" selection-end-column="15" />
           <folding>
             <element signature="e#16#25#0" expanded="true" />
@@ -780,17 +617,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/intention/intention_dict_data/时间">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="50" lean-forward="true" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/intention/utlis/sort_out.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/intention/data_process.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="399">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intention/origin_data/temp_data">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="31" column="13" lean-forward="true" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template_match/template_match.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-189">
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intention/origin_data/1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intention/utlis/clean_template.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template_match/origin_data/grammar">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intention/origin_data/synonymyTable.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intention/intention_dict_data/人物">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" lean-forward="true" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template_match/origin_data/synonymyTable.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intention/template_data/temp_data">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intention/match_template.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
