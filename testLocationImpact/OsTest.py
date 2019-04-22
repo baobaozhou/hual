@@ -5,10 +5,10 @@ from utlis.sort_out import *
 
 url = 'http://115.182.62.171:2781/bot/training_assistant_jtzf_full/simulator/nlu'
 header = {
-    'Authorization': 'eyJ0eXBlIjoiand0IiwiYWxnIjoiSFM1MTIifQ.eyJsYXN0TG9naW5UaW1lIjoiMjAxOS0wNC0xNiAxODoyMDoxNiIsInJvbGUiOnsibmFtZSI6InNlbmlvciIsImlkIjozfSwibmlja05hbWUiOiLlkajkvJrlhagiLCJwZXJtaXNzaW9ucyI6WyJjb3JwdXMiLCJib3QiLCJmYXEiLCJpbnRlbnQiLCJkYXRhIiwiZGlhbG9nIiwibW9yZSJdLCJleHBUaW1lIjoiMjAxOS0wNC0xOCAxOTowNzo1NSIsIm5hbWUiOiJodWlxdWFuIiwiaWQiOjYxLCJpc0FkbWluaXN0cmF0b3IiOmZhbHNlLCJsYXN0TG9naW5JUCI6IjE2Ni4xMTEuMTM4Ljg3In0._NPJH2xEg75clAPcjDBgqEDs1Io_BiGTcCc0xLGy9o3b8oDKGdBr_iCaDtGFEsXnM60LLbaOqy9h_PwfjnRtKw',
+    'Authorization': 'eyJ0eXBlIjoiand0IiwiYWxnIjoiSFM1MTIifQ.eyJsYXN0TG9naW5UaW1lIjoiMjAxOS0wNC0yMiAwOTozNDozMCIsInJvbGUiOnsibmFtZSI6InNlbmlvciIsImlkIjozfSwibmlja05hbWUiOiLlkajkvJrlhagiLCJwZXJtaXNzaW9ucyI6WyJjb3JwdXMiLCJib3QiLCJmYXEiLCJpbnRlbnQiLCJkYXRhIiwiZGlhbG9nIiwibW9yZSJdLCJleHBUaW1lIjoiMjAxOS0wNC0yMiAxMTozNDozMSIsIm5hbWUiOiJodWlxdWFuIiwiaWQiOjYxLCJpc0FkbWluaXN0cmF0b3IiOmZhbHNlLCJsYXN0TG9naW5JUCI6IjE2Ni4xMTEuMTM4Ljg3In0.ibz9uZwF_Dy7q8XXcV7SaHlz1FaPxRiKWy1fA4ZkwdM21sJOw2XsxOJtf1j4n4QxcGS6l0dTA02GQsa8df-oKw',
     'Content-Type': "application/json"}
-data_list = load_data('splitdata')
-with open('ostestresult', 'a', encoding='utf-8')as f:
+data_list = load_data('generationData/splitdata')
+with open('resultData/ostestresult', 'a', encoding='utf-8')as f:
     for j in data_list:
         zhou = []
         temp = j.strip('\n')
