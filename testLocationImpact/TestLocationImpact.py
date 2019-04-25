@@ -1,43 +1,41 @@
+# coding: utf-8
+
+from utlis.GetFileContent import *
+
 import re
-import os
-from utlis.load_file import *
-from utlis.sort_out import *
 
 
 def MatchRule(matchData):
-    with open('resultData/testdata', 'a', encoding='utf-8')as f:
-        data = load_data('generationData/dicaerRule')
-        tag1 = 0
-        sum = 0
-        for i in data:
-            t = i.strip('\n').split('\t')
+    """
+    匹配模板并返回结果
+    :param matchData: query
+    """
+    with open('resultData/testJieBaResult', 'a', encoding='utf-8')as f:
+        dataList = GetFileContent.GetData('generationData/dicarRule')
+        dataLength = len(dataList)
+        count = 0
+        for i in dataList:
             tag = 0
-            for j in t:
-                if t.index(j) == 0:
-                    continue
+            tempList = i.strip('\n').split('\t')
+            length = len(tempList)
+            for j in range(1, length):
+                if re.search(tempList[j], matchData):
+                    tag += 1
                 else:
-                    if re.search(j, matchData):
-                        tag += 1
-                    else:
-                        continue
-            if tag == len(t) - 1:
-                sum = 1
-                string = matchData + '\t' + t[0] + '\n'
+                    continue
+            if tag == len(tempList) - 1:
+                string = matchData + '\t' + i + '\n'
                 f.write(string)
-            tag1 += 1
-            if tag1 == len(data) and sum == 0:
-                string = matchData + '\t' + 'no' + '\n'
-                f.write(string)
+            else:
+                count += 1
+        if count == dataLength:
+            string = matchData + '\t' + 'no' + '\n'
+            f.write(string)
 
 
 if __name__ == '__main__':
-    t = load_data('generationData/jiebadata')
-    for i in t:
-        temp = i.strip('\n')
+    data = GetFileContent.GetData('generationData/jieBaData')
+    for k in data:
+        temp = k.strip('\n')
         MatchRule(temp)
-    t2 = load_data('resultData/testdata')
-    t3 = sort_out(t2)
-    with open('resultData/testjiebaresult', 'a', encoding='utf-8')as f:
-        for j in t3:
-            f.write(j)
-    os.remove('resultData/testdata')
+

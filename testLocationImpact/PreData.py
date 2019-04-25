@@ -1,58 +1,82 @@
-from utlis.load_file import *
-from utlis.JiebaResult import *
+# coding: utf-8
+
+from utlis.GetFileContent import *
+from utlis.JieBaResult import *
 from utlis.Cartesian import *
 from utlis.DataStandardization import *
-from utlis.sort_out import *
+from utlis.SortOut import *
+
 import re
 
-
-def SplitData():
-    data = load_data('originalData/data')
-    zhou = []
-    for i in data:
-        t = i.strip('\n')
-        t1 = TranslateDefine(t)
-        t2 = re.split(r',|\?|\!|\.', t1)
-        t3 = sort_out(t2)
-        if '' in t3:
-            t3.remove('')
-            for k in t3:
-                zhou.append(k)
-        else:
-            for j in t3:
-                zhou.append(j)
-    hui = sort_out(zhou)
-    with open('generationData/splitdata', 'a', encoding='utf-8')as f:
-        for l in hui:
-            f.write(l + '\n')
+"""
+数据清理
+"""
 
 
-def JiebaData():
-    t = load_data('generationData/splitdata')
-    with open('generationData/jiebadata', 'a', encoding='utf-8')as f:
-        for i in t:
-            t1 = i.strip('\n')
-            t2 = JieBaRe(t1)
-            f.write(t2 + '\n')
+class PreData:
 
+    @staticmethod
+    def SplitData(originDataPath, splitDataPath):
+        """
+        以最小单位','切割语句
+        :param originDataPath: 原始语料的路径
+        :param splitDataPath:  切割结果的路径
+        """
+        data = GetFileContent.GetData(originDataPath)
+        tempList = []
+        for i in data:
+            temp = i.strip('\n')
+            tempStandardization = DataStandardization.TranslateDefine(temp)
+            tempSplit = re.split(r',|\?|\!|\.', tempStandardization)
+            for k in tempSplit:
+                if k == '':
+                    continue
+                else:
+                    tempList.append(k)
+        sortList = SortOut.SortOut(tempList)
+        with open(splitDataPath, 'a', encoding='utf-8')as f:
+            for l in sortList:
+                f.write(l + '\n')
 
-def DicaerData():
-    t = load_data('originalData/rule')
-    for i in t:
-        temp = []
-        t1 = i.strip('\n').split('\t')
-        t2 = re.findall('(?<=\\()[^\\)]+', t1[3])
-        length = len(t2)
-        for i in range(length):
-            t3 = t2[i].split('|')
-            temp.append(t3)
-        tag = t1[1].replace('replace=', '')
-        cartesian = Cartesian(temp)
-        cartesian.assemble(tag)
+    @staticmethod
+    def JieBaData(originDataPath, jieBaDataPath):
+        """
+        语句分词
+        :param originDataPath: 原始预料路径
+        :param jieBaDataPath:  分词结果路径
+        """
+        data = GetFileContent.GetData(originDataPath)
+        with open(jieBaDataPath, 'a', encoding='utf-8')as f:
+            for i in data:
+                temp = i.strip('\n')
+                tempJieBa = JieBaResult.JieBaResult(temp)
+                f.write(tempJieBa + '\n')
+
+    @staticmethod
+    def DicarData(originDataPath, dicarDataPath):
+        """
+        生成正则对应的笛卡尔积
+        :param originDataPath: 原始预料路径
+        :param dicarDataPath:  笛卡尔积路径
+        """
+        data = GetFileContent.GetData(originDataPath)
+        for i in data:
+            temp = []
+            t1 = i.strip('\n').split('\t')
+            t2 = re.findall('(?<=\\()[^\\)]+', t1[3])
+            length = len(t2)
+            for j in range(length):
+                t3 = t2[j].split('|')
+                temp.append(t3)
+            tag = t1[1].replace('replace=', '')
+            cartesian = Cartesian(temp)
+            dicarList = cartesian.Assemble()
+            with open(dicarDataPath, 'a', encoding='utf-8')as f:
+                for k in dicarList:
+                    f.write(tag + '\t' + k + '\n')
 
 
 if __name__ == '__main__':
-    SplitData()
-    JiebaData()
-    DicaerData()
-
+    PreData.SplitData('originalData/data', 'generationData/splitData')
+    PreData.JieBaData('generationData/splitData', 'generationData/jieBaData')
+    PreData.DicarData('originalData/rule', 'generationData/dicarRule')
