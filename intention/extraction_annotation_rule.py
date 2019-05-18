@@ -15,3 +15,4 @@ with open('./generate_result/annotation_rule', 'a', encoding='utf-8')as f:
             f.write(temp[2] + '\t' + temp[3] + '\n')
 
 os.remove('./generate_result/test_data')
+

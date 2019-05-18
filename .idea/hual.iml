@@ -5,8 +5,9 @@
       <sourceFolder url="file://$MODULE_DIR$/intention" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/data_management" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/template_match" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/testKeyWords" isTestSource="false" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="Python 3.7 (python37)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TestRunnerService">

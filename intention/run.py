@@ -36,4 +36,5 @@ def result(tag_data_path, query_temp_path, save_pth):
 if __name__ == '__main__':
     match_data('./intention_result/', './generate_result/tag_data')
     result('./generate_result/tag_data', './origin_data/query_temp', './generate_result/result_data')
+    os.remove('./generate_result/tag_data')
 

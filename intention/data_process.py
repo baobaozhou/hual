@@ -5,7 +5,7 @@ from utlis.clean_template import *
 
 
 temp = save_cols('./origin_data/data.xlsx', 0, 1, './origin_data/temp_data')
-clean_template('./origin_data/temp_data', './template_data/temp_data')
+clean_template('./origin_data/temp_data', './generate_result/temp_data')
 query_temp = save_data('./origin_data/data.xlsx', 0, './origin_data/query_temp')
 
 temp_1 = load_data('./origin_data/temp_data')

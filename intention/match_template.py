@@ -7,9 +7,9 @@ from utlis.sort_out import *
 
 def expand_template():
     t_na = get_name('./template_library')
-    dict_data = load_build_dict('./template_data/template_dict')
+    dict_data = load_build_dict('./template_library/template_dict')
 
-    with open('./template_data/expand_template', 'a', encoding='utf-8')as f1:
+    with open('./generate_result/expand_template', 'a', encoding='utf-8')as f1:
         for u in t_na:
             with open('./template_library/' + u, 'r', encoding='utf-8')as f:
                 for i in f.readlines():
@@ -50,10 +50,11 @@ def expand_template():
                             else:
                                 continue
 
+
 def template_mapping():
-    t = load_data('./template_data/temp_data')
-    t1 = load_data('./template_data/expand_template')
-    with open('./template_data/temp', 'a', encoding='utf-8')as f:
+    t = load_data('./generate_result/temp_data')
+    t1 = load_data('./generate_result/expand_template')
+    with open('./generate_result/temp', 'a', encoding='utf-8')as f:
         for i in t1:
             t4 = i.split('\t')
             t3 = t4[0]
@@ -70,38 +71,38 @@ def template_mapping():
                 else:
                     continue
 
-    t6 = load_data('./template_data/temp')
+    t6 = load_data('./generate_result/temp')
     t7 = sort_out(t6)
-    with open('./template_data/temp1', 'a', encoding='utf-8')as f:
+    with open('./generate_result/temp1', 'a', encoding='utf-8')as f:
         for u in t7:
             f.write(u)
 
-    os.remove('./template_data/temp')
+    t = load_data('./generate_result/temp1')
+    t1 = load_data('./generate_result/temp_data')
+    zhou = []
+
+    for i in t:
+        t2 = i.split('\t')
+        zhou.append(t2[0])
+
+    with open('./generate_result/match_template', 'a', encoding='utf-8')as f:
+        for k in t1:
+            t3 = k.strip('\n')
+            if t3 in zhou:
+                for j in t:
+                    t4 = j.split('\t')
+                    if t4[0] == t3:
+                        f.write(t3 + '\t' + t4[1])
+                    else:
+                        continue
+            else:
+                f.write(k)
+    os.remove('./generate_result/temp')
+    os.remove('./generate_result/expand_template')
+    os.remove('./generate_result/temp1')
+    os.remove('./generate_result/temp_data')
 
 
-
-# t = load_data('./template_data/temp1')
-# t1 = load_data('./template_data/temp_data')
-# zhou = []
-#
-# for i in t:
-#     t2 = i.split('\t')
-#     zhou.append(t2[0])
-#
-# with open('./template_data/match_template', 'a', encoding='utf-8')as f:
-#     for k in t1:
-#         t3 = k.strip('\n')
-#         if t3 in zhou:
-#             for j in t:
-#                 t4 = j.split('\t')
-#                 if t4[0] == t3:
-#                     f.write(t3 + '\t' + t4[1])
-#                 else:
-#                     continue
-#         else:
-#             f.write(k)
-
-
-# if __name__ == '__main__':
-    # expand_template()
-    # template_mapping()
+if __name__ == '__main__':
+    expand_template()
+    template_mapping()

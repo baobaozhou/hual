@@ -78,6 +78,7 @@ class PreData:
 
 
 if __name__ == '__main__':
-    # PreData.SplitData('originalData/data', 'generationData/splitData')
-    # PreData.JieBaData('generationData/nerData', 'generationData/jieBaData', 'originalData/jieBaDict')
+    PreData.SplitData('originalData/data', 'generationData/splitData')
+    # python Ner.py
+    PreData.JieBaData('generationData/nerData', 'generationData/jieBaData', 'originalData/jieBaDict')
     PreData.DicarData('originalData/rule', 'generationData/dicarRule')
